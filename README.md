@@ -28,13 +28,14 @@ supermemo.guru翻译计划
 只需要注意以下几点就可以了，其他都可以随意
 
 - 书名和分类名作为文件夹标题
-- 像 1,2,...,n 这样的前缀序号，将序号后续的标题作为文件名称
-- 像 1.2,3.2,...,x.x 这样的前缀序号，将序号和后续的子标题作为一级标题
-- 如果子标题下还有子标题，就作为二级标题，以此类推
+- 把要翻译的文章原文复制到 Markdown 文件下，翻译好一个片段就将该片段的原文删除
+- 像 1,2,...,n 这样的前缀序号，将序号后续的标题作为文件名称和译文的一级标题
+- 像 1.2,3.2,...,x.x 这样的前缀序号，将序号和后续的子标题作为二级标题
+- 如果子标题下还有子标题，就作为三级标题，以此类推
 
 # 翻译计划
 
-1. 翻译*[I would never send my kids to school](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school)*这本书
+1. 翻译[I would never send my kids to school](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school)这本书
    - 1Introduction
      - [1.1Failure of schooling](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Failure_of_schooling)
      - [1.2Scrapping the school system](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Scrapping_the_school_system)
