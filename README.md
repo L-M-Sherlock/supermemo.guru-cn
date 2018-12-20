@@ -1,13 +1,13 @@
 # 如何参与翻译
 
-supermemo.guru翻译计划
+supermemo.guru 翻译计划
 
 ## 1.准备工作
 
-- 安装Git并会用Github
+- 安装 Git 并会用 Github
 - 安装文本编辑器
 
-我使用的是Typora
+我使用的是 Typora + Git Bash
 
 ## 2.承包文章
 
@@ -20,7 +20,7 @@ supermemo.guru翻译计划
 3. 把修改后的内容更新到自己的 Github
 4. 向本仓库发起 Pull Request
 5. 我如果通过或者拒绝合并，系统都会发送通知，按照说明继续后面的步骤即可，非常简单
-6. 建议每次领取任务后先从我的master分支把最新的文章 pull 下来
+6. 建议每次领取任务后先从我的 master 分支把最新的文章 pull 下来
 7. 系统会自动记录提供贡献的人及其贡献百分比，我会定期更新到 README 上
 
 ## 4.翻译过程
@@ -32,11 +32,12 @@ supermemo.guru翻译计划
 - 像 1,2,...,n 这样的前缀序号，将序号后续的标题作为文件名称和译文的一级标题
 - 像 1.2,3.2,...,x.x 这样的前缀序号，将序号和后续的子标题作为二级标题
 - 如果子标题下还有子标题，就作为三级标题，以此类推
+- 关于术语的翻译需要统一，请参见词汇表(感谢https://github.com/L-M-Sherlock/SMDoc-CN)
 
 # 翻译计划
 
 1. 翻译[I would never send my kids to school](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school)这本书
-   - 1Introduction
+   - [x] 1Introduction
      - [1.1Failure of schooling](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Failure_of_schooling)
      - [1.2Scrapping the school system](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Scrapping_the_school_system)
      - [1.3Brain-based reform](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Brain-based_reform)
@@ -54,16 +55,16 @@ supermemo.guru翻译计划
      - [1.15Fostering diversity](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Fostering_diversity)
      - [1.16Death of knowledge](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Death_of_knowledge)
      - [1.17Prediction: Death of schooling](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Prediction:_Death_of_schooling)
-   - [2Motto](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Motto)
-   - [3Brain science](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Brain_science)
-   - 4Learn drive
+   - [ ] [2Motto](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Motto)
+   - [ ] [3Brain science](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Brain_science)
+   - [ ] 4Learn drive
      - [4.1Definition](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Definition)
      - [4.2Terminology](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Terminology)
      - [4.3Novelty and stress](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Novelty_and_stress)
      - [4.4Suppression of the learn drive](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Suppression_of_the_learn_drive)
      - [4.5Further reading](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Further_reading)
      - [4.6Summary: Learn drive](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Learn_drive)
-   - 5Effect of schooling on the learn drive
+   - [ ] 5Effect of schooling on the learn drive
      - [5.1Learn drive vs. age](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Learn_drive_vs._age)
      - [5.2Learn drive vs. knowledge](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Learn_drive_vs._knowledge)
      - [5.3Learn drive vs. learning](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Learn_drive_vs._learning)
@@ -76,7 +77,7 @@ supermemo.guru翻译计划
        - [5.7.3Learn drive at middle age](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Learn_drive_at_middle_age)
      - [5.8Perpetual learn drive](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Perpetual_learn_drive)
      - [5.9Summary: Changes to the learn drive](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Changes_to_the_learn_drive)
-   - 6Learn drive and reward
+   - [ ] 6Learn drive and reward
      - [6.1The main problem in education](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#The_main_problem_in_education)
      - [6.2Learn drive and entropy](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Learn_drive_and_entropy)
      - [6.3Prior knowledge in information seeking](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Prior_knowledge_in_information_seeking)
@@ -134,7 +135,7 @@ supermemo.guru翻译计划
        - [6.23.7Is global optimization possible?](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Is_global_optimization_possible.3F)
      - [6.24Fundamental law of learning](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Fundamental_law_of_learning_2)
      - [6.25Summary: Pleasure of learning](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Pleasure_of_learning)
-   - 7Learn drive vs. learned helplessness
+   - [ ] 7Learn drive vs. learned helplessness
      - [7.1Loss of learn drive with age](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Loss_of_learn_drive_with_age)
      - [7.2Neural withering](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Neural_withering)
      - [7.3Learned helplessness at school](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Learned_helplessness_at_school)
@@ -142,7 +143,7 @@ supermemo.guru翻译计划
      - [7.5Learned helplessness at daycare](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Learned_helplessness_at_daycare)
      - [7.6Your brain is great!](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Your_brain_is_great.21)
      - [7.7Summary: School and learn drive](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_School_and_learn_drive)
-   - 8Education counteracts evolution
+   - [ ] 8Education counteracts evolution
      - [8.1Inefficiency of education](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Inefficiency_of_education)
      - [8.2Exploration algorithm](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Exploration_algorithm)
      - [8.3Evolving imitation](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Evolving_imitation)
@@ -158,7 +159,7 @@ supermemo.guru翻译计划
      - [8.13Two key errors of education systems](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Two_key_errors_of_education_systems)
      - [8.14Overoptimization](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Overoptimization)
      - [8.15The Grand Education Reform](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#The_Grand_Education_Reform)
-   - 9Toxic memory
+   - [ ] 9Toxic memory
      - [9.1Hate of school](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Hate_of_school)
      - [9.2What are toxic memories?](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#What_are_toxic_memories.3F)
      - [9.3Toxic memory: mechanism](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Toxic_memory:_mechanism)
@@ -182,12 +183,12 @@ supermemo.guru翻译计划
        - [9.9.4Toxic memories in language learning](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Toxic_memories_in_language_learning)
        - [9.9.5Toxic memories in Advanced English](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Toxic_memories_in_Advanced_English)
        - [9.9.6Toxic memories in incremental reading](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Toxic_memories_in_incremental_reading)
-   - 10Why schools fail?
+   - [ ] 10Why schools fail?
      - [10.1Summary of failure](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary_of_failure)
      - [10.2Path from knowledge to discovery](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Path_from_knowledge_to_discovery)
      - [10.3Schools abandon exploration](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Schools_abandon_exploration)
      - [10.4Schools hinder discovery](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Schools_hinder_discovery)
-   - 11Optimum push zone
+   - [ ] 11Optimum push zone
      - [11.1Push zone at school](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Push_zone_at_school)
      - [11.2Zone of proximal development](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Zone_of_proximal_development)
      - [11.3Push zone and coercion](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Push_zone_and_coercion)
@@ -202,7 +203,7 @@ supermemo.guru翻译计划
      - [11.12Push zone: examples](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Push_zone:_examples)
      - [11.13Minimum pressure, maximum outcome](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Minimum_pressure.2C_maximum_outcome)
      - [11.14My own story](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#My_own_story)
-   - 12Natural creativity cycle
+   - [ ] 12Natural creativity cycle
      - [12.1Creativity formula](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Creativity_formula)
      - 12.2Natural creativity cycle
        - 12.2.1Day
@@ -228,13 +229,13 @@ supermemo.guru翻译计划
        - [12.9.2Incremental reading](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Incremental_reading)
        - [12.9.3SleepChart](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#SleepChart)
      - [12.10Summary: Natural creativity cycle](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Natural_creativity_cycle)
-   - 13Brain evolution
+   - [ ] 13Brain evolution
      - [13.1Employing evolution](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Employing_evolution)
      - [13.2Genius of neural computation](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Genius_of_neural_computation)
      - [13.3Breeding perfect students](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Breeding_perfect_students)
      - [13.4Eugenics](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Eugenics)
      - [13.5Summary: Brain evolution](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Brain_evolution)
-   - 14Baby management
+   - [ ] 14Baby management
      - [14.1Rich learning](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Rich_learning)
      - [14.2Micromanaging baby development](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Micromanaging_baby_development)
      - [14.3Caging toddlers](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Caging_toddlers)
@@ -242,7 +243,7 @@ supermemo.guru翻译计划
      - [14.5Preschool drills](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Preschool_drills)
      - [14.6Exposure is good](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Exposure_is_good)
      - [14.7Summary: Baby management](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Baby_management)
-   - 15How baby brain does not work
+   - [ ] 15How baby brain does not work
      - [15.1Accelerating development](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Accelerating_development)
      - [15.2Perfect forgetting machines](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Perfect_forgetting_machines)
      - [15.3Infantile amnesia](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Infantile_amnesia)
@@ -252,7 +253,7 @@ supermemo.guru翻译计划
      - [15.7Precocity paradox](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Precocity_paradox)
      - [15.8Nigeria rules the world!](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Nigeria_rules_the_world.21)
      - [15.9Summary: baby brain problems](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_baby_brain_problems)
-   - 16Childhood amnesia
+   - [ ] 16Childhood amnesia
      - [16.1Introduction](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Introduction_2)
      - 16.2Measuring amnesia
        - [16.2.1Methodology problems](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Methodology_problems)
@@ -271,7 +272,7 @@ supermemo.guru翻译计划
      - [16.9My first memories](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#My_first_memories)
      - [16.10Conclusions for parents](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Conclusions_for_parents)
      - [16.11Summary: Childhood amnesia](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Childhood_amnesia)
-   - 17Daycare misery
+   - [ ] 17Daycare misery
      - [17.1Benefits of daycare](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Benefits_of_daycare)
      - [17.2Social pressure](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Social_pressure)
      - 17.3Problem of daycare
@@ -282,7 +283,7 @@ supermemo.guru翻译计划
      - [17.5Daycare: The verdict](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Daycare:_The_verdict)
      - [17.6Feminist perspective](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Feminist_perspective)
      - [17.7Summary: Daycare misery](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Daycare_misery)
-   - 18Stress resilience
+   - [ ] 18Stress resilience
      - [18.1Good stress and bad stress](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Good_stress_and_bad_stress)
      - [18.2Global loss of IQ](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Global_loss_of_IQ)
      - [18.3Resistance to chronic stress](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Resistance_to_chronic_stress)
@@ -294,7 +295,7 @@ supermemo.guru翻译计划
      - [18.7Optimum stress exposure](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Optimum_stress_exposure)
      - [18.8Stress resilience](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Stress_resilience_2)
      - [18.9Summary: Stress resilience](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Stress_resilience)
-   - 19Childhood passions
+   - [ ] 19Childhood passions
      - [19.1Childhood passions](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Childhood_passions_2)
      - [19.2School notebooks](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#School_notebooks)
      - [19.3Notes in pictures](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Notes_in_pictures)
@@ -302,7 +303,7 @@ supermemo.guru翻译计划
      - [19.5Remembering for half-a-century](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Remembering_for_half-a-century)
      - [19.6Schooling can easily kill passions](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Schooling_can_easily_kill_passions)
      - [19.7Summary: Childhood passions](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Childhood_passions)
-   - 20Why kids hate school?
+   - [ ] 20Why kids hate school?
      - [20.1Experts confirm: kids don't like school](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Experts_confirm:_kids_don.27t_like_school)
      - [20.2My own investigation](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#My_own_investigation)
      - [20.3Top 11: What kids hate most about school](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Top_11:_What_kids_hate_most_about_school)
@@ -310,16 +311,16 @@ supermemo.guru翻译计划
        - [20.4.1Freddy](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Freddy)
        - [20.4.2Arian](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Arian)
      - [20.5Summary: Why kids hate school](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Why_kids_hate_school)
-   - 21Mountain climb metaphor
+   - [ ] 21Mountain climb metaphor
      - [21.1Education is a mountain to climb](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Education_is_a_mountain_to_climb)
      - [21.2Hindsight is not 20/20](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Hindsight_is_not_20.2F20)
      - 21.3Mountain climb example
        - [21.3.1Cultivating childhood passions](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Cultivating_childhood_passions)
        - [21.3.2Replicating passions at school](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Replicating_passions_at_school)
      - [21.4Parody of the future](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Parody_of_the_future)
-   - [22Glossary](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Glossary)
-   - [23References](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#References)
-   - [24Further reading](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Further_reading_2)
-   - [25Summary](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary)
+   - [ ] [22Glossary](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Glossary)
+   - [ ] [23References](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#References)
+   - [ ] [24Further reading](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Further_reading_2)
+   - [ ] [25Summary](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary)
 2. 待定
 
