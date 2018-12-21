@@ -55,16 +55,16 @@ supermemo.guru 翻译计划
      - [1.15Fostering diversity](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Fostering_diversity)
      - [1.16Death of knowledge](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Death_of_knowledge)
      - [1.17Prediction: Death of schooling](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Prediction:_Death_of_schooling)
-   - [ ] [2Motto](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Motto)
-   - [ ] [3Brain science](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Brain_science)
-   - [ ] 4Learn drive
+   - [x] [2Motto](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Motto)
+   - [x] [3Brain science](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Brain_science)
+   - [x] 4Learn drive
      - [4.1Definition](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Definition)
      - [4.2Terminology](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Terminology)
      - [4.3Novelty and stress](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Novelty_and_stress)
      - [4.4Suppression of the learn drive](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Suppression_of_the_learn_drive)
      - [4.5Further reading](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Further_reading)
      - [4.6Summary: Learn drive](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Learn_drive)
-   - [ ] 5Effect of schooling on the learn drive
+   - [x] 5Effect of schooling on the learn drive
      - [5.1Learn drive vs. age](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Learn_drive_vs._age)
      - [5.2Learn drive vs. knowledge](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Learn_drive_vs._knowledge)
      - [5.3Learn drive vs. learning](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Learn_drive_vs._learning)
