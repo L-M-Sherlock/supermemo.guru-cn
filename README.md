@@ -15,22 +15,24 @@ supermemo.guru 翻译计划
 
 ## 3.开始翻译
 
-1. fork 本仓库到自己的 Github 仓库
-2. 对 fork 过的分支进行添加和修改
-3. 把修改后的内容更新到自己的 Github
-4. 向本仓库发起 Pull Request
-5. 我如果通过或者拒绝合并，系统都会发送通知，按照说明继续后面的步骤即可，非常简单
-6. 建议每次领取任务后先从我的 master 分支把最新的文章 pull 下来
-7. 系统会自动记录提供贡献的人及其贡献百分比，我会定期更新到 README 上
+1. fork 本仓库到自己的 Github 仓库；
+2. 对 fork 过的分支进行添加和修改；
+3. 把修改后的内容更新到自己的 Github；
+4. 向本仓库发起 Pull Request；
+5. 我如果通过或者拒绝合并，系统都会发送通知，按照说明继续后面的步骤即可，非常简单；
+6. 建议每次领取任务后先从我的 master 分支把最新的文章 pull 下来；
+7. 系统会自动记录提供贡献的人及其贡献百分比，我会定期更新到 README 上；
 
 ## 4.翻译过程
 
 只需要注意以下几点就可以了，其他都可以随意
 
-- 书名和分类名作为文件夹标题
-- 把要翻译的文章原文复制到 Markdown 文件下，翻译好一个片段就将该片段的原文删除
-- 每个标题的大小就按照原文标题的大小。这里只需要在我搬运好的原文上直接翻译即可，标题大小已经标好。
-- 关于术语的翻译需要统一，请参见词汇表(其实我还没翻译那个词汇表，大家先参考我之前的翻译吧，抱歉)
+- 书名和分类名作为文件夹标题；
+- 把要翻译的文章原文复制到 Markdown 文件下，翻译好一个片段就将该片段的原文删除；
+- 每个标题的大小就按照原文标题的大小。这里只需要在我搬运好的原文上直接翻译即可，标题大小已经标好；
+- 关于术语的翻译需要统一，请参见[术语表](https://github.com/L-M-Sherlock/supermemo.guru-cn/blob/master/我再也不会把孩子送去学校/22.术语表.md)；
+- 外国人名不翻译；
+- 原文链接在翻译时要转移到译文中。
 
 # 翻译计划
 
@@ -316,7 +318,7 @@ supermemo.guru 翻译计划
        - [21.3.1Cultivating childhood passions](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Cultivating_childhood_passions)
        - [21.3.2Replicating passions at school](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Replicating_passions_at_school)
      - [21.4Parody of the future](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Parody_of_the_future)
-   - [ ] [22Glossary](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Glossary)
+   - [x] [22Glossary](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Glossary)
    - [ ] [23References](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#References)
    - [ ] [24Further reading](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Further_reading_2)
    - [ ] [25Summary](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary)
