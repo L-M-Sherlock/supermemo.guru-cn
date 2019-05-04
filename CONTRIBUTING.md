@@ -77,7 +77,7 @@ supermemo.guru 翻译计划
        - [5.7.3Learn drive at middle age](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Learn_drive_at_middle_age)
      - [5.8Perpetual learn drive](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Perpetual_learn_drive)
      - [5.9Summary: Changes to the learn drive](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Changes_to_the_learn_drive)
-   - [ ] 6Learn drive and reward
+   - [x] 6Learn drive and reward
      - [6.1The main problem in education](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#The_main_problem_in_education)
      - [6.2Learn drive and entropy](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Learn_drive_and_entropy)
      - [6.3Prior knowledge in information seeking](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Prior_knowledge_in_information_seeking)
