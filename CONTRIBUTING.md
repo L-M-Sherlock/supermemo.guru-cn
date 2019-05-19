@@ -135,7 +135,7 @@ supermemo.guru 翻译计划
        - [6.23.7Is global optimization possible?](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Is_global_optimization_possible.3F)
      - [6.24Fundamental law of learning](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Fundamental_law_of_learning_2)
      - [6.25Summary: Pleasure of learning](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Pleasure_of_learning)
-   - [ ] 7Learn drive vs. learned helplessness
+   - [x] 7Learn drive vs. learned helplessness
      - [7.1Loss of learn drive with age](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Loss_of_learn_drive_with_age)
      - [7.2Neural withering](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Neural_withering)
      - [7.3Learned helplessness at school](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Learned_helplessness_at_school)
@@ -143,7 +143,7 @@ supermemo.guru 翻译计划
      - [7.5Learned helplessness at daycare](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Learned_helplessness_at_daycare)
      - [7.6Your brain is great!](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Your_brain_is_great.21)
      - [7.7Summary: School and learn drive](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_School_and_learn_drive)
-   - [ ] 8Education counteracts evolution
+   - [x] 8Education counteracts evolution
      - [8.1Inefficiency of education](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Inefficiency_of_education)
      - [8.2Exploration algorithm](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Exploration_algorithm)
      - [8.3Evolving imitation](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Evolving_imitation)
@@ -183,7 +183,7 @@ supermemo.guru 翻译计划
        - [9.9.4Toxic memories in language learning](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Toxic_memories_in_language_learning)
        - [9.9.5Toxic memories in Advanced English](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Toxic_memories_in_Advanced_English)
        - [9.9.6Toxic memories in incremental reading](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Toxic_memories_in_incremental_reading)
-   - [ ] 10Why schools fail?
+   - [x] 10Why schools fail?
      - [10.1Summary of failure](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary_of_failure)
      - [10.2Path from knowledge to discovery](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Path_from_knowledge_to_discovery)
      - [10.3Schools abandon exploration](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Schools_abandon_exploration)
@@ -321,6 +321,6 @@ supermemo.guru 翻译计划
    - [x] [22Glossary](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Glossary)
    - [ ] [23References](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#References)
    - [ ] [24Further reading](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Further_reading_2)
-   - [ ] [25Summary](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary)
+   - [x] [25Summary](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary)
 2. 待定
 
