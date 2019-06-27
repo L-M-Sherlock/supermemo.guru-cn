@@ -1,3 +1,8 @@
+---
+layout: default
+title: CONTRIBUTING
+---
+
 # 如何参与翻译
 
 supermemo.guru 翻译计划

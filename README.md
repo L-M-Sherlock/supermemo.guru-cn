@@ -1,3 +1,8 @@
+---
+layout: default
+title: README
+---
+
 # supermemo.guru 翻译计划
 
 ## 须知
