@@ -1,8 +1,3 @@
----
-layout: default
-title: CONTRIBUTING
----
-
 # CONTRIBUTING
 
 ## 如何参与翻译
