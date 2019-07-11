@@ -1,6 +1,5 @@
 # Table of contents
 
-* [supermemo.guru 翻译计划](README.md)
 * [CONTRIBUTING](contributing.md)
 * [I would never send my kids to school我永远不会送我的孩子去学校](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/README.md)
   * [00.Content目录](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/00.content-mu-lu.md)
