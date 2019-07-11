@@ -1,3 +1,6 @@
+# Table of contents
+
+* [Introduction](README.md)
 * [我永远不会送我的孩子去学校](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/README.md)
   * [01.前言](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/01.introduction-qian-yan.md)
   * [02.箴言](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/02.motto-zhen-yan.md)
@@ -16,8 +19,8 @@
   * [15.婴儿的大脑怎样不起作用](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/15.how-baby-brain-does-not-work-ying-er-de-da-nao-zen-yang-bu-qi-zuo-yong.md)
   * [16.童年失忆症](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/16.childhood-amnesia-tong-nian-shi-yi-zheng.md)
   * [17.幼儿园的苦难](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/17.daycare-misery-you-er-yuan-de-ku-nan.md)
-  * [19.童年的激情](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/19.childhood-passions-tong-nian-de-ji-qing.md)
   * [18.压力适应力](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/18.stress-resilience-ya-li-shi-ying-li.md)
+  * [19.童年的激情](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/19.childhood-passions-tong-nian-de-ji-qing.md)
   * [20.为什么孩子们讨厌学校](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/20.why-kids-hate-school-wei-shi-mo-hai-zi-men-tao-yan-xue-xiao.md)
   * [21.爬山类比](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/21.mountain-climb-metaphor-pa-shan-lei-bi.md)
   * [22.术语表](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/22.glossary-shu-yu-biao.md)
