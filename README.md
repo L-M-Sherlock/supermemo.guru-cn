@@ -1,4 +1,4 @@
-# supermemo.guru 翻译计划
+# Introduction
 
 ## 须知
 
