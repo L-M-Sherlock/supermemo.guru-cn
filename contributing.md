@@ -237,7 +237,7 @@ supermemo.guru 翻译计划
      * [13.3Breeding perfect students](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Breeding_perfect_students)
      * [13.4Eugenics](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Eugenics)
      * [13.5Summary: Brain evolution](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Brain_evolution)
-   * [ ] 14Baby management
+   * [x] 14Baby management
      * [14.1Rich learning](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Rich_learning)
      * [14.2Micromanaging baby development](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Micromanaging_baby_development)
      * [14.3Caging toddlers](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Caging_toddlers)
@@ -245,7 +245,7 @@ supermemo.guru 翻译计划
      * [14.5Preschool drills](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Preschool_drills)
      * [14.6Exposure is good](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Exposure_is_good)
      * [14.7Summary: Baby management](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Baby_management)
-   * [ ] 15How baby brain does not work
+   * [x] 15How baby brain does not work
      * [15.1Accelerating development](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Accelerating_development)
      * [15.2Perfect forgetting machines](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Perfect_forgetting_machines)
      * [15.3Infantile amnesia](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Infantile_amnesia)
@@ -255,7 +255,7 @@ supermemo.guru 翻译计划
      * [15.7Precocity paradox](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Precocity_paradox)
      * [15.8Nigeria rules the world!](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Nigeria_rules_the_world.21)
      * [15.9Summary: baby brain problems](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_baby_brain_problems)
-   * [ ] 16Childhood amnesia
+   * [x] 16Childhood amnesia
      * [16.1Introduction](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Introduction_2)
      * 16.2Measuring amnesia
      * [16.2.1Methodology problems](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Methodology_problems)
