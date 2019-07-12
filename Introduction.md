@@ -16,3 +16,6 @@ supermemo.guru 文章中文翻译
 
 [I would never send my kids to school 我永远不会送我的孩子去学校](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/)
 
+## GitHub 项目地址
+
+[L-M-Sherlock](https://github.com/L-M-Sherlock)/[supermemo.guru-cn](https://github.com/L-M-Sherlock/supermemo.guru-cn)
