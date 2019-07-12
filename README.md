@@ -19,3 +19,4 @@ supermemo.guru 文章中文翻译
 ## GitHub 项目地址
 
 [L-M-Sherlock](https://github.com/L-M-Sherlock)/[supermemo.guru-cn](https://github.com/L-M-Sherlock/supermemo.guru-cn)
+

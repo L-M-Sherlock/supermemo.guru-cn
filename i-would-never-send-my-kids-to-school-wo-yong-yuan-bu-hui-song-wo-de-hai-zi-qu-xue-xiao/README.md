@@ -506,7 +506,7 @@
   * [为成年做准备](18.stress-resilience-ya-li-shi-ying-li.md#为成年做准备)
     * [18.5.1Stress resilience training](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Stress_resilience_training)
     * [压力适应训练](18.stress-resilience-ya-li-shi-ying-li.md#压力适应训练)
-    * [18.5.2Discipline training](https://supermemo.guru/wiki/I\_would\_never\_send\_my\_kids\_to\_school\#Discipline\_training)
+    * [18.5.2Discipline training](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Discipline_training)
     * [自律训练](18.stress-resilience-ya-li-shi-ying-li.md#自律训练)
   * [18.6Homeschooler's sleep](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Homeschooler.27s_sleep)
   * [在家上学者的睡眠情况](18.stress-resilience-ya-li-shi-ying-li.md#在家上学者的睡眠情况)
