@@ -1,5 +1,3 @@
-# Table of contents
-
 * [Introduction](README.md)
 * [我永远不会送我的孩子去学校](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/README.md)
   * [01.前言](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/01.introduction-qian-yan.md)
