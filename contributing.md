@@ -274,7 +274,7 @@ supermemo.guru 翻译计划
      * [16.9My first memories](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#My_first_memories)
      * [16.10Conclusions for parents](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Conclusions_for_parents)
      * [16.11Summary: Childhood amnesia](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Childhood_amnesia)
-   * [ ] 17Daycare misery
+   * [x] 17Daycare misery
      * [17.1Benefits of daycare](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Benefits_of_daycare)
      * [17.2Social pressure](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Social_pressure)
      * 17.3Problem of daycare
@@ -285,7 +285,7 @@ supermemo.guru 翻译计划
      * [17.5Daycare: The verdict](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Daycare:_The_verdict)
      * [17.6Feminist perspective](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Feminist_perspective)
      * [17.7Summary: Daycare misery](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Daycare_misery)
-   * [ ] 18Stress resilience
+   * [x] 18Stress resilience
      * [18.1Good stress and bad stress](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Good_stress_and_bad_stress)
      * [18.2Global loss of IQ](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Global_loss_of_IQ)
      * [18.3Resistance to chronic stress](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Resistance_to_chronic_stress)
@@ -297,7 +297,7 @@ supermemo.guru 翻译计划
      * [18.7Optimum stress exposure](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Optimum_stress_exposure)
      * [18.8Stress resilience](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Stress_resilience_2)
      * [18.9Summary: Stress resilience](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary:_Stress_resilience)
-   * [ ] 19Childhood passions
+   * [x] 19Childhood passions
      * [19.1Childhood passions](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Childhood_passions_2)
      * [19.2School notebooks](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#School_notebooks)
      * [19.3Notes in pictures](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Notes_in_pictures)
@@ -321,7 +321,7 @@ supermemo.guru 翻译计划
      * [21.3.2Replicating passions at school](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Replicating_passions_at_school)
      * [21.4Parody of the future](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Parody_of_the_future)
    * [x] [22Glossary](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Glossary)
-   * [ ] [23References](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#References)
+   * [x] [23References](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#References)
    * [x] [24Further reading](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Further_reading_2)
    * [x] [25Summary](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Summary)
 2. 待定
