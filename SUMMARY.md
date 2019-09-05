@@ -27,6 +27,6 @@
   * [23.参考文献](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/23.references-can-kao-wen-xian.md)
   * [24.拓展阅读](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/24.further-reading-tuo-zhan-yue-du.md)
   * [25.摘要](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/25.summary-zhai-yao.md)
-* [间隔重复的历史](jian-ge-zhong-fu-de-li-shi.md)
+* [间隔重复的历史](history-of-spaced-repetition-jian-ge-zhong-fu-de-li-shi/README.md)
 * [CONTRIBUTING](contributing.md)
 
