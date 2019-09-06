@@ -14,7 +14,7 @@ supermemo.guru 文章中文翻译
 
 ## 目前翻译过/翻译中的文集
 
-[I would never send my kids to school 我永远不会送我的孩子去学校](https://github.com/L-M-Sherlock/supermemo.guru-cn/tree/master/i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao)(已完成)
+[I would never send my kids to school 我永远不会送我的孩子去学校](https://github.com/L-M-Sherlock/supermemo.guru-cn/tree/master/I%20would%20never%20send%20my%20kids%20to%20school)(已完成)
 
 [History of spaced repetition 间隔重复的历史](https://github.com/L-M-Sherlock/supermemo.guru-cn/tree/master/history-of-spaced-repetition-jian-ge-zhong-fu-de-li-shi)(翻译中)
 

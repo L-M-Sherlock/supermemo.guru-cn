@@ -28,10 +28,10 @@
   * [24.拓展阅读](I would never send my kids to school/24.further-reading-tuo-zhan-yue-du.md)
   * [25.摘要](I would never send my kids to school/25.summary-zhai-yao.md)
 * [间隔重复的历史](history-of-spaced-repetition-jian-ge-zhong-fu-de-li-shi/README.md)
-  * [前言](history-of-spaced-repetition-jian-ge-zhong-fu-de-li-shi/01.Introduction.md)
-  * [1985 SuperMemo 的诞生](history-of-spaced-repetition-jian-ge-zhong-fu-de-li-shi/02.1985 Birth of SuperMemo.md)
-  * [1986 SuperMemo 的第一步](history-of-spaced-repetition-jian-ge-zhong-fu-de-li-shi/03.1986 First steps of SuperMemo.md)
-  * [1987 DOS 上的 SuperMemo 1.0](\history-of-spaced-repetition-jian-ge-zhong-fu-de-li-shi\04.1987 SuperMemo 1.0 for DOS.md)
+  * [前言](History of spaced repetition/01.Introduction.md)
+  * [1985 SuperMemo 的诞生](History of spaced repetition/02.1985 Birth of SuperMemo.md)
+  * [1986 SuperMemo 的第一步](History of spaced repetition/03.1986 First steps of SuperMemo.md)
+  * [1987 DOS 上的 SuperMemo 1.0](History of spaced repetition/04.1987 SuperMemo 1.0 for DOS.md)
   * 1988 记忆的两个组成部分
   * 1989 SuperMemo 适应用户的记忆
   * 1990 记忆的通用公式
