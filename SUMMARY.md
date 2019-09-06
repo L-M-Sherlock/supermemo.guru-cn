@@ -28,5 +28,8 @@
   * [24.拓展阅读](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/24.further-reading-tuo-zhan-yue-du.md)
   * [25.摘要](i-would-never-send-my-kids-to-school-wo-yong-yuan-bu-hui-song-wo-de-hai-zi-qu-xue-xiao/25.summary-zhai-yao.md)
 * [间隔重复的历史](history-of-spaced-repetition-jian-ge-zhong-fu-de-li-shi/README.md)
+  * [前言](history-of-spaced-repetition-jian-ge-zhong-fu-de-li-shi/01.Introduction.md)
+  * [1985 SuperMemo 的诞生](history-of-spaced-repetition-jian-ge-zhong-fu-de-li-shi/02.1985 Birth of SuperMemo.md)
+  * [1986 SuperMemo 的第一步](history-of-spaced-repetition-jian-ge-zhong-fu-de-li-shi/03.1986 First steps of SuperMemo.md)
 * [CONTRIBUTING](contributing.md)
 
