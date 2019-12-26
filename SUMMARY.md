@@ -28,23 +28,22 @@
   * [24.拓展阅读](I would never send my kids to school/24.further-reading-tuo-zhan-yue-du.md)
   * [25.摘要](I would never send my kids to school/25.summary-zhai-yao.md)
 * [间隔重复的历史](History of spaced repetition/README.md)
-  * [前言](History of spaced repetition/01.Introduction.md)
-  * [1985 SuperMemo 的诞生](History of spaced repetition/02.1985 Birth of SuperMemo.md)
-  * [1986 SuperMemo 的第一步](History of spaced repetition/03.1986 First steps of SuperMemo.md)
-  * [1987 DOS 上的 SuperMemo 1.0](History of spaced repetition/04.1987 SuperMemo 1.0 for DOS.md)
-  * 1988 记忆的两个组成部分
-  * 1989 SuperMemo 适应用户的记忆
-  * 1990 记忆的通用公式
-  * 1991 采用遗忘曲线
-  * 1994 遗忘的指数性质
-  * 1995 SuperMemo 多媒体
-  * 1997 采用神经网络
-  * 1999 选择名称——间隔重复
-  * 2005 稳步增加功能
-  * 2014 SM-17 算法
-  * 间隔重复的指数发展
-  * 记忆研究的摘要
-  * 剖析成功与失败
-  * 尾声
+  * [01.前言](History of spaced repetition/01.Introduction.md)
+  * [02.1985 SuperMemo 的诞生](History of spaced repetition/02.1985 Birth of SuperMemo.md)
+  * [03.1986 SuperMemo 的第一步](History of spaced repetition/03.1986 First steps of SuperMemo.md)
+  * [04.1987 DOS 上的 SuperMemo 1.0](History of spaced repetition/04.1987 SuperMemo 1.0 for DOS.md)
+  * [05.1988 记忆的两个组成部分](History of spaced repetition/05.1988 Two component of memory.md)
+  * [06.1989 SuperMemo 适应用户的记忆](History of spaced repetition/06.1989 SuperMemo adapts to user memory.md)
+  * [07.1990 记忆的通用公式](History of spaced repetition/07.1990 Universal formula for memory.md)
+  * [08.1991 采用遗忘曲线](History of spaced repetition/08.1991 Employing forgetting curves.md)
+  * [09.1994 遗忘的指数性质](History of spaced repetition/09.1994 Exponential nature of forgetting.md)
+  * [10.1995 SuperMemo 多媒体](History of spaced repetition/10.1995 Hypermedia SuperMemo.md)
+  * [11.1997 采用神经网络](History of spaced repetition/11.1997 Employing neural networks.md)
+  * [12.1999 选择名称——间隔重复](History of spaced repetition/12.1999 Choosing the name spaced repetition.md)
+  * [13.2005 稳步增加功能](History of spaced repetition/13.2005 Stability increase function.md)
+  * [14.2014 SM-17 算法](History of spaced repetition/14.2014 Algorithm SM-17.md)
+  * [15.间隔重复的指数发展](History of spaced repetition/15.Exponential adoption of spaced repetition.md)
+  * [16.记忆研究的摘要](History of spaced repetition/16.Summary of memory research.md)
+  * [17.剖析成功与失败](History of spaced repetition/17.The anatomy of failure and success.md)
+  * [18.尾声](History of spaced repetition/18.Epilog.md)
 * [CONTRIBUTING](contributing.md)
-
