@@ -1,6 +1,6 @@
 # 间隔重复的历史
 
-
+原文目录如下，一轮润色结束后替换为译文目录
 
 * [1 Introduction](https://supermemo.guru/wiki/History_of_spaced_repetition_%28print%29#Introduction)
   * [1.1 True history](https://supermemo.guru/wiki/History_of_spaced_repetition_%28print%29#True_history)
