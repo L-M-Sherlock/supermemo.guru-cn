@@ -1,6 +1,6 @@
 * [Introduction](README.md)
 * [我永远不会送我的孩子去学校](I-would-never-send-my-kids-to-school/README.md)
-    * [01.前言](I-would-never-send-my-kids-to-school/01.introduction-qian-yan.md)
+    * [01.前言](I-would-never-send-my-kids-to-school/introduction-qian-yan.md)
     * [02.箴言](I-would-never-send-my-kids-to-school/02.motto-zhen-yan.md)
     * [03.脑科学](I-would-never-send-my-kids-to-school/03.brain-science-nao-ke-xue.md)
     * [04.学习内驱力](I-would-never-send-my-kids-to-school/04.learn-drive-xue-xi-nei-qu-li.md)

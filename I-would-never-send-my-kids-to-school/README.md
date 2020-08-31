@@ -1,7 +1,7 @@
 # 我永远不会送我的孩子去学校
 
 * [1 Introduction](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Introduction)
-* [前言](01-introduction-qian-yan.md)
+* [前言](introduction-qian-yan.md)
   * [1.1 Failure of schooling](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Failure_of_schooling)
   * [学校教育的失败](01.introduction-qian-yan.md#学校教育的失败)
   * [1.2 Scrapping the school system](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Scrapping_the_school_system)
