@@ -276,7 +276,7 @@
   * [20.5 摘要：为什么孩子们讨厌上学](why-kids-hate-school-wei-shi-mo-hai-zi-men-tao-yan-xue-xiao.md)
 * [21 爬山类比](mountain-climb-metaphor-pa-shan-lei-bi.md)
   * [21.1 教育是一座待攀登的山峰](mountain-climb-metaphor-pa-shan-lei-bi.md)
-  * 21.2 Hindsight is not 20/20[后见之明并非完美](mountain-climb-metaphor-pa-shan-lei-bi.md)
+  * [21.2 后见之明并非完美](mountain-climb-metaphor-pa-shan-lei-bi.md)
   * [21.3 爬山的例子](mountain-climb-metaphor-pa-shan-lei-bi.md)
     * [21.3.1 培养童年激情](mountain-climb-metaphor-pa-shan-lei-bi.md)
     * [21.3.2 在学校复现激情](mountain-climb-metaphor-pa-shan-lei-bi.md)
