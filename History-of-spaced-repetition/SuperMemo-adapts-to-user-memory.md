@@ -497,7 +497,7 @@ With incomplete knowledge of memory, adaptability is always superior to rigid mo
 
 ### Evaluation of SuperMemo 5 (1989)
 
-### SuperMemo5 的进化（1989）
+### SuperMemo5 的评估（1989）
 
 SuperMemo 5 was so obviously superior that I did not collect much data to prove my point. I made only a few comparisons for my [Master's Thesis](https://supermemo.guru/wiki/Master's_Thesis) and they left no doubt.
 
@@ -517,28 +517,28 @@ This text was part of: "*Optimization of learning*" by [Piotr Wozniak](https://s
 
 The Algorithm SM-5 has been in use since October 17, 1989, and has surpassed all expectations in providing an efficient method of determining the desired function of [optimal intervals](https://supermemo.guru/wiki/Optimal_interval), and in consequence, improving the [acquisition rate](https://supermemo.guru/wiki/Acquisition_rate) (15,000 items learnt within 9 months). Fig. 3.5 indicates that the acquisition rate was at least twice as high as that indicated by combined application of the [SM-2](https://supermemo.guru/wiki/Algorithm_SM-2) and [SM-4](https://supermemo.guru/wiki/Algorithm_SM-4) algorithms!
 
-算法SM-5已经使用自10月17日,1989年,超过了所有的预期提供一个有效的方法确定所需的函数(最优间隔)(https://supermemo.guru/wiki/Optimal_interval),结果,改善(收购率)(https://supermemo.guru/wiki/Acquisition_rate)(15000项目在9个月内学会)。从图3.5可以看出，收购率至少是[SM-2](https://supermemo.guru/wiki/algorithm_sm2)和[SM-4](https://supermemo.guru/wiki/Algorithm_SM-4)两种算法联合应用的两倍!
+算法 SM-5 自 1989 年 10 月 17 日开始使用，它提供了一种确定理想的最优间隔函数的有效方法，超出了所有人的预期，从而提高了习得率(在 9 个月内学习了 15,000 个项目)。图 3.5 显示习得速率至少是组合应用 SM-2 和 SM-4 算法的两倍！
 
 [![Changes of the work burden in databases supervised by SM-2 and SM-5 algorithms](../.gitbook/assets/407px-Burdern_SM2_vs_SM5.jpg)](https://supermemo.guru/wiki/File:Burdern_SM2_vs_SM5.jpg)
 
 > **Figure:** Changes of the work burden in databases supervised by SM-2 and SM-5 algorithms.
 >
-> **图片：**在SM-2和SM-5算法的监督下，数据库中工作负担的>变化
+> **图片：**在 SM-2 和 SM-5 算法的监督下，数据库中工作负担的变化
 
 The knowledge retention increased to about 96% for 10-month-old databases. Below, some knowledge retention data in selected databases are listed to show the comparison between the SM-2 and SM-5 algorithms:
 
-10个月的数据库的知识保留率提高到96%左右。下面列出了一些选定数据库中的知识保留数据，以展示SM-2和SM-5算法之间的比较:
+对于 10 个月的数据库，知识保留率提高到 96% 左右。下面列出了选定数据库中的一些知识保留率数据，以显示 SM-2 和 SM-5 算法之间的比较：
 
 - Date - date of the measurement,
+- 日期 - 测量日期，
 - Database - name of the database; ALL means all databases averaged
+- 数据库 - 数据库的名称；ALL 表示所有数据库的平均值
 - Interval - average current interval used by items in the database
+- 间隔 - 数据库中项目使用的平均当前间隔
 - Retention - knowledge retention in the database
+- 保留率 - 数据库中的知识保留率
 - Version - version of the algorithm applied to the database
-- 日期-测量日期，
-- 数据库-数据库的名称;ALL表示所有数据库的平均值
-- Interval -数据库中项目使用的平均当前间隔
-- 保留-数据库中的知识保留
-- 版本-版本的算法应用到数据库
+- 版本 - 数据库所应用的算法版本
 
 |  Date  | Database | Interval | Retention |       Version       |
 | :----: | :------: | :------: | :-------: | :-----------------: |
@@ -551,7 +551,7 @@ The knowledge retention increased to about 96% for 10-month-old databases. Below
 
 In the process of repetition the following distribution of grades was recorded:
 
-在重复的过程中，记录了下列成绩分配情况:
+在复习过程中，记录了下列成绩分布情况:
 
 | Quality | Fraction |
 | :-----: | :------: |
@@ -564,11 +564,11 @@ In the process of repetition the following distribution of grades was recorded:
 
 This distribution, in accordance to the assumptions underlying the Algorithm SM-5, yields the average [response quality](https://supermemo.guru/wiki/Grade) equal to 4. The [forgetting index](https://supermemo.guru/wiki/Forgetting_index) equals to 11% ([items](https://supermemo.guru/wiki/Item) with [quality](https://supermemo.guru/wiki/Grade) lower than 3 are regarded as forgotten). Note, that the retention data indicate that only 4% of items in a database are not remembered. Therefore forgetting index exceeds the percentage of forgotten items 2.7 times.
 
+根据算法 SM-5 的假设，该分布产生的平均回忆质量等于 4。遗忘指数等于 11%(成绩低于 3 的项目被认为是被遗忘的)。请注意，保留率数据表明数据库中只有 4% 的项目没有被记住。因此，遗忘指数超过遗忘项目百分比的 2.7 倍。
+
 In a 7-month old database, it was found that 70% of items had not been forgotten even once in the course of repetitions preceding the measurement, while only 2% of items had been forgotten more than 3 times
 
-根据算法SM-5的假设，这个分布产生的平均[响应质量](https://supermemo.guru/wiki/Grade)等于4。【遗忘指数】(https://supermemo.guru/wiki/Forgetting_index)等于11%(【项目】(https://supermemo.guru/wiki/Item)，而【质量】(https://supermemo.guru/wiki/Grade)低于3视为遗忘)。注意，保留数据表明数据库中只有4%的项目没有被记住。因此，遗忘指数超过遗忘率2.7倍。
-
-在一个7个月的老数据库中，发现70%的项目在测量之前的重复过程中没有被遗忘一次，而只有2%的项目被遗忘超过3次
+在一个 7 个月前的数据库中，发现 70% 的项目在测量之前的重复过程中甚至没有忘记一次，而只有 2% 的项目遗忘次数超过 3 次
 
 ### Theoretic proof of superiority of newer algorithms
 
@@ -576,51 +576,50 @@ In a 7-month old database, it was found that 70% of items had not been forgotten
 
 Anki's criticism of SuperMemo 5 calls for a simple proof in the light of modern [spaced repetition](https://supermemo.guru/wiki/Spaced_repetition) theory. We can show that today's model of memory can be mapped onto the models underlying both algorithms: [Algorithm SM-2](https://supermemo.guru/wiki/Algorithm_SM-2) and [Algorithm SM-5](https://supermemo.guru/wiki/Algorithm_SM-5), and the key difference between the two is the missing adaptability of the function of [optimal intervals](https://supermemo.guru/wiki/Optimal_interval) (represented in Algorithm SM-5 by [matrix of optimum factors](https://supermemo.guru/wiki/Matrix_of_optimum_factors)).
 
-Anki对SuperMemo 5的批评需要一个简单的证明，根据现代的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)理论。我们今天能显示的记忆模式可以映射到模型中潜在的两种算法：[算法SM-2](https://supermemo.guru/wiki/Algorithm_SM-2)和[算法SM-5](https://supermemo.guru/wiki/Algorithm_SM-5),两者之间的关键区别是失踪的适应性的功能[最优间隔](https://supermemo.guru/wiki/Optimal_interval)在算法SM-5的代表([矩阵最优因素](https://supermemo.guru/wiki/Matrix_of_optimum_factors))。
+Anki 对 SuperMemo 5 的批评需要根据现代的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)理论来做一个简单的证明。我们可以表明，今天的记忆模型可以映射到两种算法基础上的模型：[算法 SM-2](https://supermemo.guru/wiki/Algorithm_SM-2) 和[算法 SM-5](https://supermemo.guru/wiki/Algorithm_SM-5)，两者之间的关键区别是最优间隔函数的适应性缺失(在算法SM-5中由最优因子矩阵表示)。
 
 Let SInc=f(C,S,R) be a [stability increase](https://supermemo.guru/wiki/Stability_increase) function that takes [complexity](https://supermemo.guru/wiki/Complexity) C, [stability](https://supermemo.guru/wiki/Stability) S, and [retrievability](https://supermemo.guru/wiki/Retrievability) R as arguments. This function determines the progressive increase in review [intervals](https://supermemo.guru/wiki/Interval) in optimum learning.
 
-SInc = f (C、S、R) 是一个[稳定增加](https://supermemo.guru/wiki/Stability_increase)函数，[复杂性](https://supermemo.guru/wiki/Complexity) C、[稳定](https://supermemo.guru/wiki/Stability) S、[可恢复性](https://supermemo.guru/wiki/Retrievability) R 作为参数。这个函数决定了最优学习中复习[interval](https://supermemo.guru/wiki/Interval)的递增。
+SInc = f (C、S、R) 是一个[稳定性增长](https://supermemo.guru/wiki/Stability_increase)函数，[复杂性](https://supermemo.guru/wiki/Complexity) C、[稳定](https://supermemo.guru/wiki/Stability) S、[可恢复性](https://supermemo.guru/wiki/Retrievability) R 作为参数。这个函数决定了最优学习中复习[间隔](https://supermemo.guru/wiki/Interval)的递增。
 
 Both Algorithms, SM-2 and SM-5 ignore the [retrievability](https://supermemo.guru/wiki/Retrievability) dimension. In theory, if both algorithms worked perfectly, we could assume they aim at R=0.9. As it can be measured in [SuperMemo](https://supermemo.guru/wiki/SuperMemo), both algorithms fail at that effort for they do not know relevant [forgetting curves](https://supermemo.guru/wiki/Forgetting_curve). They simply do not collect forgetting curve data. This data-collecting possibility was introduced only in [Algorithm SM-6](https://supermemo.guru/wiki/Algorithm_SM-6) in 1991.
 
-两种算法，SM-2和SM-5都忽略了[可提取性](https://supermemo.guru/wiki/Retrievability)维度。理论上，如果两种算法都能完美运行，我们可以假设它们的目标是R=0.9。正如可以在[SuperMemo](https://supermemo.guru/wiki/SuperMemo)中测量的那样，这两种算法都失败了，因为它们不知道相关的[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)。他们只是不收集遗忘曲线数据。这种数据收集的可能性是在1991年才在[算法SM-6](https://supermemo.guru/wiki/Algorithm_SM-6)中引入的。
+两种算法，SM-2 和 SM-5 都忽略了[可提取性](https://supermemo.guru/wiki/Retrievability)维度。理论上，如果两种算法都能完美运行，我们可以假设它们的目标是 R=0.9。正如可以在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中测量的那样，这两种算法都失败了，因为它们不知道相关的[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)。他们只是不收集遗忘曲线数据。这种数据收集的可能性是在 1991 年才在[算法 SM-6](https://supermemo.guru/wiki/Algorithm_SM-6) 中引入的。
 
 However, if we assume that [1985](https://supermemo.guru/wiki/The_birthday_of_spaced_repetition:_July_31,_1985) and [1987](https://supermemo.guru/wiki/SuperMemo_1.0_for_DOS_(1987)) heuristics were perfect guesses, in theory, the algorithm could use SInc=F(C,S) with constant R of 90%.
 
-然而，如果我们假设[1985](https://supermemo.guru/wiki/The_birthday_of_spaced_repetition:_July_31，_1985)和[1987](https://supermemo.guru/wiki/SuperMemo_1.0_for_DOS_(1987))启发式是完美的猜测，在理论上，该算法可以使用SInc=F(C,S)与常数R为90%。
+然而，如果我们假设 [1985](https://supermemo.guru/wiki/The_birthday_of_spaced_repetition:_July_31，_1985) 和 [1987](https://supermemo.guru/wiki/SuperMemo_1.0_for_DOS_(1987)) 启发式是完美的猜测，在理论上，该算法可以使用SInc=F(C,S)，常数R为90%。
 
 Due to the fact that SM-2 uses the same number, [EF](https://supermemo.guru/wiki/E-factor) for [stability increase](https://supermemo.guru/wiki/Stability_increase) and for item [complexity](https://supermemo.guru/wiki/Complexity), for SM-2 we have SInc=f(C,S) equation represented by EF=f'(EF,interval), where it can be shown easily with data that f<>f'. Amazingly, the heuristic used in SM-2 made this function work by decoupling the actual link between the EF and item [complexity](https://supermemo.guru/wiki/Complexity). As data shows that *SInc* keeps decreasing with an increase in *S*, in [Algorithm SM-2](https://supermemo.guru/wiki/Algorithm_SM-2), by definition, all items would need to gain on complexity with each review if EF was to represent item complexity. In practical terms, Algorithm SM-2 uses EF=f'(EF,interval), which translates to SInc(n)=f(SInc(n-1),interval).
 
-因为SM-2使用相同的号码,(EF) (https://supermemo.guru/wiki/E-factor)为稳定增长(https://supermemo.guru/wiki/Stability_increase)和项目(复杂性)(https://supermemo.guru/wiki/Complexity), SM-2有SInc = f (C, S)方程由EF = f”(EF、间隔),它可以轻松地与数据表明,f < > f '。令人惊讶的是，在SM-2中使用的启发式通过解耦EF和项目[复杂度]之间的实际链接使这个函数工作(https://supermemo.guru/wiki/Complexity)。根据数据显示，随着*S*的增加，*SInc*不断减少，在[算法SM-2](https://supermemo.guru/wiki/Algorithm_SM-2)中，根据定义，如果EF要表示项目的复杂性，那么所有的项目在每次评审时都需要增加复杂度。在实际应用中，算法SM-2使用EF=f'(EF,interval)，将其转换为SInc(n)=f(SInc(n-1)，interval)。
+由于 SM-2 使用相同的数字 EF 用于稳定性增加和项目复杂性，对于 SM-2，我们有以 EF=f'(EF,interval) 的形式表示的 SInc=f(C,S) 方程，其中的数据可以很容易地显示 f<>f' 。令人惊讶的是，SM-2 中使用的启发式通过解耦 EF 和项目复杂性之间的实际联系，使这个函数发挥作用。由于数据显示 SInc 随着 S 的增加而不断减少，在算法 SM-2 中，根据定义，如果要用 EF 来表示项的复杂度，那么所有项都需要在每次复习时获得复杂度。在实际应用中，算法 SM-2 使用 EF=f'(EF,interval)，即 SInc(n)=f(SInc(n-1),interval)。
 
 Let us assume that the EF=f(EF,interval) heuristic was an excellent guess as claimed by proponents of Algorithm SM-2. Let *SInc* be represented by [O-factor](https://supermemo.guru/wiki/O-factor) in Algorithm SM-5. We might then represent *SInc*=f(C,S) as *OF*=f([EF](https://supermemo.guru/wiki/EF),[interval](https://supermemo.guru/wiki/Interval)).
 
-让我们假设EF=f(EF,interval)启发式是一个很好的猜想，正如SM-2算法的支持者所声称的那样。令*SInc*在算法SM-5中由[O-factor](https://supermemo.guru/wiki/O-factor)表示。然后我们可以将*SInc*=f(C,S)表示为*OF*=f([EF](https://supermemo.guru/wiki/EF)，[interval](https://supermemo.guru/wiki/Interval))。
+让我们假设 EF=f(EF,interval) 启发式正如 SM-2 算法的支持者所声称的那样，是一个很好的猜想。令 *SInc* 在算法 SM-5 中由 [O-factor](https://supermemo.guru/wiki/O-factor) 表示。然后我们可以将 *SInc*=f(C,S) 表示为 *OF*=f([EF](https://supermemo.guru/wiki/EF),[interval](https://supermemo.guru/wiki/Interval))。
 
 For Algorithm SM-2, OF would be constant and equal to EF, in Algorithm SM-5, OF is adaptable and can be modified depending on algorithm's performance. It seems pretty obvious that penalizing the algorithm for bad performance by a drop to [OF matrix](https://supermemo.guru/wiki/OF_matrix) entries, and rewarding it by an increase in OF entries is superior to keeping OF constant.
 
-对于算法SM-2, OF是常数，等于EF，在算法SM-5中，OF是可适应的，可以根据算法的表现进行修改。很明显，对表现差的算法进行惩罚，降低到[矩阵](https://supermemo.guru/wiki/OF_matrix)项目，并通过增加项目来奖励它，这要优于保持不变。
+对于算法 SM-2, OF 是常数，等于 EF，在算法 SM-5 中，OF是可适应的，可以根据算法的表现进行修改。很明显，对表现差的算法进行惩罚，降低[OF 矩阵](https://supermemo.guru/wiki/OF_matrix)对应的项，并通过增加对应的项来奖励它，这要优于保持不变。
 
 On a funny twist, as much as supporters of Algorithm SM-2 claim it performs great, supporters of neural network SuperMemo kept accusing algebraic algorithms of: lack of adaptability. In reality, the adaptability of [Algorithm SM-17](https://supermemo.guru/wiki/Algorithm_SM-17) is best to-date as it is based on the most accurate [model of memory](https://supermemo.guru/wiki/Three_component_model_of_memory).
 
-有趣的是，尽管SM-2算法的支持者声称它表现得很好，但神经网络SuperMemo算法的支持者却不断指责代数算法:缺乏适应性。实际上，[Algorithm SM-17](https://supermemo.guru/wiki/Algorithm_SM-17)的适应性是最好的，因为它是基于最精确的[记忆模型](https://supermemo.guru/wiki/Three_component_model_of_memory)。
+有趣的是，尽管 SM-2 算法的支持者声称它表现得很好，但神经网络 SuperMemo 算法的支持者却不断指责代数算法：缺乏适应性。实际上，[算法 SM-17](https://supermemo.guru/wiki/Algorithm_SM-17) 的适应性是最好的，因为它是基于最精确的[记忆模型](https://supermemo.guru/wiki/Three_component_model_of_memory)。
 
 It is conceivable that heuristics used in SM-2 were so accurate that the original guess on *OF*=f(EF,interval) needed no modification. However, as it has been shown in practical application, the [OF matrix](https://supermemo.guru/wiki/OF_matrix) quickly evolves, and converges onto values described in [this publication (Wozniak, Gorzelanczyk 1994)](https://supermemo.guru/wiki/ANE1994). They differ substantively from the assumption wired into [Algorithm SM-2](https://supermemo.guru/wiki/Algorithm_SM-2).
 
-可以想象，在SM-2中使用的启发法是如此精确，以致于原来对*OF*=f(EF,interval)的猜测不需要修改。然而，正如在实际应用中所显示的那样，[OF matrix](https://supermemo.guru/wiki/OF_matrix)迅速发展，并收敛到[this publication (Wozniak, Gorzelanczyk 1994)](https://supermemo.guru/wiki/ANE1994)中描述的值。它们与连接到[算法SM-2](https://supermemo.guru/wiki/Algorithm_SM-2)的假设有本质的不同。
+可以想象，在 SM-2 中使用的启发法是如此精确，以致于原来对 *OF*=f(EF,interval) 的猜测不需要修改。然而，正如在实际应用中所显示的那样，[OF 矩阵](https://supermemo.guru/wiki/OF_matrix)迅速发展，并收敛到[这篇出版物(Wozniak, Gorzelanczyk 1994)](https://supermemo.guru/wiki/ANE1994)中描述的值。它们与算法 SM-2 中的假设有本质上的不同。
 
 **Summary:**
 
 **总结：**
 
 - sm17 (2016): SInc=f(C,S,R), 3 variables, f is adaptable
+- sm17 (2016): SInc=f(C,S,R)， 3 个变量，f 是有适应性的
 - sm5 (1989): SInc=f(C,S,0.9), 2 variables, f is adaptable
+- sm5 (1989): SInc=f(C,S,0.9)， 2 个变量，f 是有适应性的
 - sm2 (1987): SInc=f(SInc,S,0.9) - 1 variable, f is fixed
-- sm17 (2016): SInc=f(C,S,R)， 3个变量，f是可适应的
-- sm5 (1989): SInc=f(C,S,0.9)， 2个变量，f是可适应的
-
-- sm2 (1987): SInc=f(SInc,S,0.9) - 1变量，f是固定的
+- sm2 (1987): SInc=f(SInc,S,0.9) - 1 个变量，f 是固定的
 
 ## Convergence
 
@@ -652,7 +651,7 @@ It will take a few further years before more sound conclusions can be drawn rega
 
 然而，在考虑的时期(1989年10月17日- 1990年5月23日)，只有那些以修改-验证周期短(不到3-4个月)为特征的最优因素似乎达到了平衡值。
 
-关于[矩阵的]最终形状，还需要几年的时间才能得出更合理的结论(https://supermemo.guru/wiki/OF_matrix)。在分析了7个月大的矩阵后，最有趣的事实是，对于e因子等于2.5的矩阵，第一次重复间隔应该长达5天，对于e因子等于1.3的矩阵，甚至应该长达8天!第二个时间间隔对应的值分别为3周和2周左右。
+关于[矩阵](https://supermemo.guru/wiki/OF_matrix)的最终形状，还需要几年的时间才能得出更合理的结论。在分析了7个月大的矩阵后，最有趣的事实是，对于e因子等于2.5的矩阵，第一次重复间隔应该长达5天，对于e因子等于1.3的矩阵，甚至应该长达8天!第二个时间间隔对应的值分别为3周和2周左右。
 
 The newly-obtained function of [optimal intervals](https://supermemo.guru/wiki/Optimal_interval) could be formulated as follows:
 
