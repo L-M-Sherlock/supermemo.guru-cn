@@ -6,13 +6,13 @@
 
 **Optimum push zone** is a range of minimum outside pressure that makes the child develop better than without external influences. For example, competition with other children may encourage harder work. Naturally, external pressure may also result in regression. Progress may also occur at levels of pressure that are greater than necessary to achieve the same level of improvement. The push zone is defined on long-term outcomes, which are very different from short-term outcomes.
 
-**最佳推动区**是一个最小外部压力的范围，使孩子相较于没有外部影响时更好地发展。例如，与其他孩子的竞争可能鼓励更努力的学习。自然，外部压力也可能导致回归。当压力水平超过达到相同改进水平所需时，进步也可能出现。推动区是根据长期效果来定义的，长期效果与短期效果有很大的不同。
+**最佳推动区**是一个最小外部压力的范围，使孩子相较于没有外部影响时更好地发展。例如，与其他孩子的竞争可能鼓励更努力的学习。自然，外部压力也可能导致倒退。当压力水平超过达到相同改进水平所需时，进步也可能出现。推动区是根据长期效果来定义的，长期效果与短期效果有很大的不同。
 
 ![File:Optimal push zone.png](../.gitbook/assets/800px-optimal_push_zone.png)
 
 > **Figure:** **Optimum push zone**\(in blue\) is the range of external pressure that is likely to improve learning outcomes. If the pressure increases beyond the push zone, the learning outcomes decrease. At some point, instead of more learning, pressure will result in less learning \(**regress zone** in black\). Schooling results in increased tolerance for coercion via learned helplessness \(in green\). It also decreases the learning outcomes and increases the required level of coercion
 >
-> **图：** **最佳推进区**（蓝色）是可能改进学习效果的外部压力范围。如果压力超过推动区，学习效果就会下降。在某一点上，压力会导致学得更少，而不是更多（黑色的**回归区**）。学校教育通过习得性无助（绿色）提高了对强制的容忍度。它还会降低学习效果，并增加所需的强制水平
+> **图：** **最佳推进区**（蓝色）是可能改进学习效果的外部压力范围。如果压力超过推动区，学习效果就会下降。在某一点上，压力会导致学得更少，而不是更多（黑色的**倒退区**）。学校教育通过习得性无助（绿色）提高了对强制的容忍度。它还会降低学习效果，并增加所需的强制水平
 
 ### 11.1 Push zone at school
 
@@ -20,7 +20,7 @@
 
 The **optimum push zone** is usually far narrower than it is popularly assumed. The whole system of [coercive education](https://supermemo.guru/wiki/Coercion_in_learning) exerts pressures that go wildly beyond the optimum in most cases. This comes from the illusion of progress created by short-term outcomes. Excessive pressure slows down long-term development of children or results in regression in comparison to what would be achieved without schooling. Pressure is the key factor that explains [why kids hate school](https://supermemo.guru/wiki/Why_kids_hate_school).
 
-**最佳推动区**通常比大多数人假设的窄得多。在大多数情况下，整个[强制性教育](https://supermemo.guru/wiki/Coercion_in_learning)系统施加的压力远远超出最佳水平。这是由于短期效果造成的对进步的幻想。过大的压力会减缓儿童的长期发展，或导致与不上学所取得的成绩相比出现回归。压力是解释[为什么孩子们讨厌学校](https://supermemo.guru/wiki/Why_kids_hate_school)的关键因素。
+**最佳推动区**通常比大多数人假设的窄得多。在大多数情况下，整个[强制性教育](https://supermemo.guru/wiki/Coercion_in_learning)系统施加的压力远远超出最佳水平。这是由于短期效果造成的对进步的幻想。过大的压力会减缓儿童的长期发展，或导致与不上学所取得的成绩相比出现倒退。压力是解释[为什么孩子们讨厌学校](https://supermemo.guru/wiki/Why_kids_hate_school)的关键因素。
 
 > Focus on short-term outcomes in schooling results in pressures extending well beyond the optimum push zone
 >
@@ -72,27 +72,27 @@ Moreover, the pressure is not supposed to push the kid into learning and to sust
 
 When there is little pressure or distraction, a student may operate in a **comfort zone**, in which she predominantly develops on her own using [self-paced](https://supermemo.guru/wiki/Self-paced_learning) and [self-directed learning](https://supermemo.guru/wiki/Self-directed_learning). Depending on the child, the subject domain, and the environment, the comfort zone may bring fantastic outcomes \(e.g. when pursuing an ambitious passion or hobby\) or a developmental regression \(e.g. in various form of dependence, e.g videogames, social media, peers, etc.\). For many kids, development in the comfort zone is ruined by environmental distractions \(e.g. difficult situation at home\). Most of kids attending school quickly regress to a point where operations in the comfort zone lead to little or no progress. In that sense, external pressures can shift the push zone in the direction where more pressure is needed to obtain positive outcomes. In extreme cases, the child may regress via [learned helplessness](https://supermemo.guru/wiki/Learned_helplessness) into a total loss of the [learn drive](https://supermemo.guru/wiki/Learn_drive). This is the main underlying cause for which [kids hate school](https://supermemo.guru/wiki/Why_kids_hate_school%3F).
 
-当没有压力或分心时，学生可能会在一个**舒适区**行动，在这个区域中，她主要是通过[自我调整](https://supermemo.guru/wiki/Self-paced_learning)和[自我导向](https://supermemo.guru/wiki/Self-directed_learning)的学习来发展自己的能力。根据孩子、学科领域和环境的不同，舒适区可能会带来奇妙的效果（例如当追求一种雄心勃勃的激情或爱好时）或发展的退步（例如各种形式的依赖，例如视频游戏、社交媒体、同龄人等）。对许多孩子来说，环境干扰破坏了他们在舒适区的发展（例如，家里的困难状况）。大多数上学的孩子很快就会回归到在舒适区行动只会导致很少或根本没有进步的地步。从这个意义上说，外部压力可以将推动区向需要更多压力才能获得积极效果的方向移动。在极端的情况下，孩子可能通过[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)回归到完全丧失[学习内驱力](https://supermemo.guru/wiki/Learn_drive)。这是[孩子们讨厌学校](https://supermemo.guru/wiki/Why_kids_hate_school%3F)的主要根本原因。
+当没有压力或分心时，学生可能会在一个**舒适区**行动，在这个区域中，她主要是通过[自我调整](https://supermemo.guru/wiki/Self-paced_learning)和[自我导向](https://supermemo.guru/wiki/Self-directed_learning)的学习来发展自己的能力。根据孩子、学科领域和环境的不同，舒适区可能会带来奇妙的效果（例如当追求一种雄心勃勃的激情或爱好时）或发展的退步（例如各种形式的依赖，例如视频游戏、社交媒体、同龄人等）。对许多孩子来说，环境干扰破坏了他们在舒适区的发展（例如，家里的困难状况）。大多数上学的孩子很快就会倒退到在舒适区行动只会导致很少或根本没有进步的地步。从这个意义上说，外部压力可以将推动区向需要更多压力才能获得积极效果的方向移动。在极端的情况下，孩子可能通过[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)倒退到完全丧失[学习内驱力](https://supermemo.guru/wiki/Learn_drive)。这是[孩子们讨厌学校](https://supermemo.guru/wiki/Why_kids_hate_school%3F)的主要根本原因。
 
 ### 11.5 Regress zone
 
-### 回归区
+### 倒退区
 
 **Regress zone** is where the pressure brought in by the tutor will have an overall negative impact on development. Regress zone is particularly extensive in small children. [Early academic instruction](https://supermemo.guru/wiki/Abandon_early_math_instruction!) may backfire in the long term even if it is not highly coercive. This is why early school age is harmful.
 
-**回归区**是指导师所带来的压力会对发展产生整体负面影响的区域。回归区在幼儿中尤为广泛。从长远来看，[早期的学术指导](https://supermemo.guru/wiki/Abandon_early_math_instruction!)可能会适得其反，即使它并不具有很强的强制性。这就是为什么学龄小是有害的。
+**倒退区**是指导师所带来的压力会对发展产生整体负面影响的区域。倒退区在幼儿中尤为广泛。从长远来看，[早期的学术指导](https://supermemo.guru/wiki/Abandon_early_math_instruction!)可能会适得其反，即使它并不具有很强的强制性。这就是为什么学龄小是有害的。
 
 Regress zone may bring some short-term positive outcomes, e.g. passing a test, but it will produce a negative number on the overall development benchmark whichever way it is defined by or for the student. Depending on the degree of pressure exerted on the student within the regress zone, it may produce a mild slowdown, e.g. an increase in a dislike for learning, or dramatic results such as stress, neuronal death, psychiatric disorders, suicide, and the like.
 
-回归区可能会带来一些短期的正面效果，例如通过一项测试，但它会在总体发展基准上产生负面影响，无论它是由学生定义的，还是为学生定义的。根据在回归区内对学生施加的压力的程度，它可能会产生轻微的减缓，例如，对学习的厌恶增加，或剧烈的效果，如压力、神经元死亡、精神障碍、自杀等。
+倒退区可能会带来一些短期的正面效果，例如通过一项测试，但它会在总体发展基准上产生负面影响，无论它是由学生定义的，还是为学生定义的。根据在倒退区内对学生施加的压力的程度，它可能会产生轻微的减缓，例如，对学习的厌恶增加，或剧烈的效果，如压力、神经元死亡、精神障碍、自杀等。
 
 The importance of differentiating the push zone from the ZPD comes from the fact that the optima set by ZPD may bring long-term regress. In other words, a child can progress in a short term, e.g. by mastering a skill, and regress in a long term by conditioning a dislike for learning, e.g. in the domain of the learned skill. For example, we can send a kid to a music school, employ ZPD, observe a fantastic progression of skills, and still end up with a disappointing outcome in which the kid loses her passion for music.
 
-区分推动区和 ZPD 的重要性来自于 ZPD 设置的最佳值可能会带来长期的回归。换言之，儿童可以在短期内取得进步，例如通过掌握一项技能，而在长期内可能因为对学习厌恶而回归，例如在所学技能的领域。例如，我们可以把一个孩子送到音乐学校，使用 ZPD，观察技能的惊人进步，但效果仍然令人失望，孩子失去了对音乐的热情。
+区分推动区和 ZPD 的重要性来自于 ZPD 设置的最佳值可能会带来长期的倒退。换言之，儿童可以在短期内取得进步，例如通过掌握一项技能，而在长期内可能因为对学习厌恶而倒退，例如在所学技能的领域。例如，我们可以把一个孩子送到音乐学校，使用 ZPD，观察技能的惊人进步，但效果仍然令人失望，孩子失去了对音乐的热情。
 
 Many tools used in schooling tend to operate in the regress zone despite providing an illusion of progress by employing short-term benchmarks. Those tools include: [homework](https://supermemo.guru/wiki/Homework), [cramming](https://supermemo.guru/wiki/Cramming), [testing](https://supermemo.guru/wiki/Testing), grades, threats, bribes, [coercion](https://supermemo.guru/wiki/Coercion_in_learning), compulsory reading set, etc.
 
-许多用于教育的工具倾向于在回归区运行，尽管通过使用短期基准提供了一种进步的假象。这些工具包括：[家庭作业](https://supermemo.guru/wiki/Homework)、[填鸭式学习](https://supermemo.guru/wiki/Cramming)、[考试](https://supermemo.guru/wiki/Testing)、分数、威胁、贿赂、[强制](https://supermemo.guru/wiki/Coercion_in_learning)、强迫阅读等。
+许多用于教育的工具倾向于在倒退区运行，尽管通过使用短期基准提供了一种进步的假象。这些工具包括：[家庭作业](https://supermemo.guru/wiki/Homework)、[填鸭式学习](https://supermemo.guru/wiki/Cramming)、[考试](https://supermemo.guru/wiki/Testing)、分数、威胁、贿赂、[强制](https://supermemo.guru/wiki/Coercion_in_learning)、强迫阅读等。
 
 > One of the greatest dangers of teaching is the illusion in which positive short-term effects obscure negative long-term outcomes
 >
@@ -104,7 +104,7 @@ Many tools used in schooling tend to operate in the regress zone despite providi
 
 If we take the axis of influence from negative to positive infinity as defined for any type of external pressure, the optimum push zone will lie between the comfort zone, with some overlap, and the regress zone. The part of the curve with positive outcomes will be divided into two portions: the optimum push zone, and the zone of progress where the same outcomes are achieved at higher pressure.
 
-如果我们将影响轴从负无穷到正无穷取任意一种外部压力的定义，最佳推动区将位于舒适区和回归区之间，有一些重叠。具有正向效果的曲线部分将分为两部分：最佳推动区和在较高压力下获得相同效果的进展区。
+如果我们将影响轴从负无穷到正无穷取任意一种外部压力的定义，最佳推动区将位于舒适区和倒退区之间，有一些重叠。具有正向效果的曲线部分将分为两部分：最佳推动区和在较高压力下获得相同效果的进展区。
 
 Metaphorically speaking, on the axis of proximal development, we see a progression of a child from bored to confused. On the axis of external pressure, we will see a U-shaped curve of development outcomes with the best results registered at the pressure matching the optimum push zone.
 
@@ -117,11 +117,11 @@ Long-term learning outcomes define the boundaries:
 * **retrogress zone**: distractive pressure reduces learning \(e.g. pressure to help parents, to get a job, to participate in crime, to take part in war, etc.\)
 * **退步区**：分散注意力的压力会减少学习（例如帮助父母、找工作、参与犯罪、参战等压力）。
 * **comfort zone**: usually minor to huge progress, depending on the personality, environment, and knowledge. Regress is hardly possible in healthy kids in healthy environments with few distractions. We have been programmed by evolution to grow continually. This is at least well pronounced at younger ages before a possible degree of saturation sets in
-* **舒适区**：通常是小到大的进步，取决于个性、环境和知识。在没有太多干扰的健康环境中，回归几乎是不可能的。我们已经被进化规划为不断成长。至少在可能的饱和程度开始出现之前，这一点在较小的年龄阶段就已经很明显了。
+* **舒适区**：通常是小到大的进步，取决于个性、环境和知识。在没有太多干扰的健康环境中，倒退几乎是不可能的。我们已经被进化规划为不断成长。至少在可能的饱和程度开始出现之前，这一点在较小的年龄阶段就已经很明显了。
 * **push zone**: produces positive outcomes compared with the comfort zone. There is a dramatic increase in value at little pressure \(high return on low investment of teaching, tutoring, mentoring, etc.\). The optimum usually falls at very low levels of pressure \(might be much higher for some kids\). There is a quick decline in development speed in the zone where adding pressure diminishes outcomes. The optimum push zone is richest in the sense of accomplishment, and provides for a cumulative increase in enthusiasm, passion, interest, and knowledge. This is the zone that marks the best brain growth
 * **推动区**：与舒适区相比，产生正面的效果。在压力很小的情况下（教学、辅导等低投资的高回报），价值就会急剧增加。最佳值通常在很低的压力水平下降（对一些孩子来说可能要高得多）。在增加压力会减少效果的区域，发展速度会迅速下降。最佳推动区在成就感方面是最丰富的，它提供了对热情、激情、兴趣和知识的累积增长。这是大脑发育最好的区域。
 * **regress zone**: too much pressure results in regress. The pressure may have a form of the stress of schooling, cram schools, excess [homework](https://supermemo.guru/wiki/Homework), parental blackmail, anger, etc. The end result is stress, bad sleep, bad health, frustration, hating school, hating learning, hating a subject, hating the world, or hating oneself
-* **回归区**：压力过大会导致回归。压力可能包括学校教育、补习、[家庭作业](https://supermemo.guru/wiki/Homework)过多、父母敲诈、愤怒等方面的压力。最终的效果是压力、睡眠不良、健康不佳、沮丧、讨厌学校、讨厌学习、讨厌一门学科、讨厌这个世界，或者讨厌自己。
+* **倒退区**：压力过大会导致倒退。压力可能包括学校教育、补习、[家庭作业](https://supermemo.guru/wiki/Homework)过多、父母敲诈、愤怒等方面的压力。最终的效果是压力、睡眠不良、健康不佳、沮丧、讨厌学校、讨厌学习、讨厌一门学科、讨厌这个世界，或者讨厌自己。
 
 ### 11.7 Zone changes
 
@@ -137,7 +137,7 @@ Learning expands knowledge, which improves outcomes in the comfort zone. It may 
 
 The comfort zone may regress in size in adverse circumstances. The regress zone may contract the push zone. For example, a child operating in conditions of school stress may develop an aversion to learning that will produce more dramatic reactions to all forms of external pressure. In a similar fashion, the comfort zone may shrink. On school-free days, the kid may compensate limits on freedom by losing itself in videogames. Via [learned helplessness](https://supermemo.guru/wiki/Learned_helplessness), the regress zone may also expand the optimum push zone by changing pain boundaries, however, it may also stunt the outcomes. This is why schooling still brings positive effects for an average child. Where regressive pressure might do damage at first, it gradually induces learning apathy, and kids forced to go through the motions of schooling will still register some knowledge and pass basic test benchmarks. Those benchmarks are always set way below a child's true potential \(for example, see: [Schools are useless in teaching English](https://supermemo.guru/wiki/Schools_are_useless_in_teaching_English)\)
 
-在不利的情况下，舒适区的大小可能会缩小。回归区可能压缩推动区。例如，在学校压力下工作的儿童可能会产生对学习的厌恶，从而对各种形式的外部压力产生更剧烈的反应。同样，舒适区也可能缩小。在不上学的日子里，孩子们可能会通过沉迷于电子游戏来弥补对自由的限制。通过[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)，回归区也可以通过改变疼痛边界来扩大最佳推动区，然而，它也可能阻碍效果。这就是为什么学校教育仍然对普通儿童产生积极影响的原因。在最初可能造成损害的回归压力下，逐渐导致学习冷漠，被迫接受学校教育的儿童仍然会记录一些知识，并通过基本的测试基准。这些基准的设定总是远远低于儿童的真正潜力（例如：[学校在教英语方面毫无用处](https://supermemo.guru/wiki/Schools_are_useless_in_teaching_English)）。
+在不利的情况下，舒适区的大小可能会缩小。倒退区可能压缩推动区。例如，在学校压力下工作的儿童可能会产生对学习的厌恶，从而对各种形式的外部压力产生更剧烈的反应。同样，舒适区也可能缩小。在不上学的日子里，孩子们可能会通过沉迷于电子游戏来弥补对自由的限制。通过[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)，倒退区也可以通过改变疼痛边界来扩大最佳推动区，然而，它也可能阻碍效果。这就是为什么学校教育仍然对普通儿童产生积极影响的原因。在最初可能造成损害的倒退压力下，逐渐导致习得性无助，被迫接受学校教育的儿童仍然会记录一些知识，并通过基本的测试基准。这些基准的设定总是远远低于儿童的真正潜力（例如：[学校在教英语方面毫无用处](https://supermemo.guru/wiki/Schools_are_useless_in_teaching_English)）。
 
 ### 11.8 Correcting development trajectory
 
@@ -149,11 +149,11 @@ The optimum nudge in the push zone will not only depend on the marginal effect o
 
 It is always safer to operate in the push zone close to the comfort zone. The difference in pressure between the push zone and the regress zone may be hard to measure. For example, the kid may agree to do extra [homework](https://supermemo.guru/wiki/Homework) today, but he will be less likely to do more work over a longer period \(e.g. months\). In the end, minor over-correction will reduce the long-term outcome.
 
-在靠近舒适区的推动区操作总是更安全。推动区和回归区之间的压力差可能很难测量。例如，孩子可能会同意今天做额外的[家庭作业](https://supermemo.guru/wiki/Homework)，但他不太可能在更长的时间内（如几个月）做更多的工作。最后，轻微的过度修正将减少长期效果。
+在靠近舒适区的推动区操作总是更安全。推动区和倒退区之间的压力差可能很难测量。例如，孩子可能会同意今天做额外的[家庭作业](https://supermemo.guru/wiki/Homework)，但他不太可能在更长的时间内（如几个月）做更多的工作。最后，轻微的过度修正将减少长期效果。
 
 All forms of pressure get registered as long-term memories. Repeated pressure works along the principles of [spaced repetition](https://supermemo.guru/wiki/Spaced_repetition). Small errors will get magnified if they get repeated. This is how the hate of learning develops. This is how [toxic memories](https://supermemo.guru/wiki/Toxic_memories) get entrenched. This is why all forms of over-correction must be compensated with long "resting periods" to let [forgetting](https://supermemo.guru/wiki/Forgetting) do its clean up job. This is why all erroneous forays into the regress zone bear the extra cost of recovery in the comfort zone. Kids who switch from a standard school to a [democratic school](https://supermemo.guru/wiki/Democratic_school) often need long periods of "detox" to become self-reliant and creative again.
 
-所有形式的压力都被记录为长期记忆。重复压力按照[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的原则生效。如果再犯一些小错误，就会被放大。憎恨学习就是这样发展起来的。[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)就是这样根深蒂固的。这就是为什么所有形式的过度纠正都必须用长时间的「休息时间」来补偿，让[遗忘](https://supermemo.guru/wiki/Forgetting)来完成它的清理工作。这就是为什么所有进入回归区的错误尝试都要承担在舒适区恢复的额外费用的原因。从一所标准学校转到一所[民主学校](https://supermemo.guru/wiki/Democratic_school)的孩子通常需要长时间的「戒毒期」才能再次变得自力更生和富有创造力。
+所有形式的压力都被记录为长期记忆。重复压力按照[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的原则生效。如果再犯一些小错误，就会被放大。憎恨学习就是这样发展起来的。[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)就是这样根深蒂固的。这就是为什么所有形式的过度纠正都必须用长时间的「休息时间」来补偿，让[遗忘](https://supermemo.guru/wiki/Forgetting)来完成它的清理工作。这就是为什么所有进入倒退区的错误尝试都要承担在舒适区恢复的额外费用的原因。从一所标准学校转到一所[民主学校](https://supermemo.guru/wiki/Democratic_school)的孩子通常需要长时间的「戒毒期」才能再次变得自力更生和富有创造力。
 
 ### 11.9 Changes to push zone with age
 
@@ -216,7 +216,7 @@ This [book](https://supermemo.guru/wiki/Problem_of_Schooling) discusses a number
 * [Sudbury Valley School](https://supermemo.guru/wiki/Sudbury_Valley_School) is a good demonstration that for a subset of kids, operating in the comfort zone with no pushing may produce fantastic results. The outcomes may or may not be optimum, however, there is no school like a school with happy kids.
 * [Sudbury Valley 学校](https://supermemo.guru/wiki/Sudbury_Valley_School)是一个很好的证明，对于一部分孩子来说，在舒适的环境中行动而不需要推动，可能会产生奇妙的效果。效果可能是最好的，也可能不是最好的，然而，没有一所学校比得上一所拥有快乐孩子的学校。
 * kids in cram schools may show excellent results in the standardized [testing](https://supermemo.guru/wiki/Testing), but may operate in the regress zone with negative impact on their long-term development. They may be great in math today, and still make for a poor programmer two decades later
-* 补习学校的学生在标准化[考试](https://supermemo.guru/wiki/Testing)中可能表现出优异的成绩，但可能会在回归区行动，对他们的长期发展产生负面影响。他们在今天的数学上可能很棒，但在二十年后，他们仍然是一个蹩脚的程序员。
+* 补习学校的学生在标准化[考试](https://supermemo.guru/wiki/Testing)中可能表现出优异的成绩，但可能会在倒退区行动，对他们的长期发展产生负面影响。他们在今天的数学上可能很棒，但在二十年后，他们仍然是一个蹩脚的程序员。
 * [the case of Simon](https://supermemo.guru/wiki/Social_groups_in_socialization#Are_they_rowdy.3F) shows that school and coercive parenting can result in a lifetime declaration to never engage in learning \(ever!\)
 * [Simon 的例子](https://supermemo.guru/wiki/Social_groups_in_socialization#Are_they_rowdy.3F)表明，学校教育和强制性的父母教育可以导致终生不从事学习的宣言（永远！）
 * [my own change of schools](https://supermemo.guru/wiki/Dangers_of_being_a_Straight_A_student#Chemistry_streak_.28Apr_1975_-_May_1976.29) took the impact of school from the retrogress zone to the optimum push zone within days
@@ -224,7 +224,7 @@ This [book](https://supermemo.guru/wiki/Problem_of_Schooling) discusses a number
 * I experienced a distraction retrogress in [my fights for dominance in primary school](https://supermemo.guru/wiki/School_fights)
 * [我在小学争取支配地位](https://supermemo.guru/wiki/School_fights)的斗争中经历了一次分心的退步。
 * my interest in programming and in [SuperMemo](https://supermemo.guru/wiki/SuperMemo) helped me drag myself from a regress zone of boring college to the optimum push zone where self-directed development was accelerated by a dose of external pressure. Instead of losing brain cells and sleep over the study of electronic circuits, [I was able to focus on programming, research, and SuperMemo](https://supermemo.guru/wiki/How_I_invented_perfect_schooling), while being constantly nudged to acceleration by the need to pass exam benchmarks \(see: [My school tried to block the best thing in my life](https://supermemo.guru/wiki/Knowledge_valuation_network#Knowledge_valuation_that_affects_the_course_of_life)\)
-* 我对编程和 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的兴趣帮助我把自己从无聊大学的回归区拖到了最佳推动区，在那里，自我导向的发展被外部压力加速了。我不是为了学习电子线路而失去脑细胞和睡眠，而是[专注于编程、研究和 SuperMemo](https://supermemo.guru/wiki/How_I_invented_perfect_schooling)，同时由于需要通过考试基准而不断地被催促加速（参见：[我的学校试图阻止我生活中最好的事情](https://supermemo.guru/wiki/Knowledge_valuation_network#Knowledge_valuation_that_affects_the_course_of_life)）。
+* 我对编程和 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的兴趣帮助我把自己从无聊大学的倒退区拖到了最佳推动区，在那里，自我导向的发展被外部压力加速了。我不是为了学习电子线路而失去脑细胞和睡眠，而是[专注于编程、研究和 SuperMemo](https://supermemo.guru/wiki/How_I_invented_perfect_schooling)，同时由于需要通过考试基准而不断地被催促加速（参见：[我的学校试图阻止我生活中最好的事情](https://supermemo.guru/wiki/Knowledge_valuation_network#Knowledge_valuation_that_affects_the_course_of_life)）。
 * what happens today to kids in war-torn Syria is the prime example of the extreme retrogress in conditions of [toxic stress](https://developingchild.harvard.edu/science/key-concepts/toxic-stress/). The impact of war on learning can extend over generations
 * 今天在饱受战争蹂躏的叙利亚儿童身上发生的事情，是[毒性压力](https://developingchild.harvard.edu/science/key-concepts/toxic-stress/)条件下极端退步的最好例子。战争对学习的影响可以延续到几代人。
 
