@@ -1,0 +1,355 @@
+# Why SuperMemo Trashes Any Note-taking System (Including OneNote and Evernote) 
+
+# 为什么 SuperMemo 摧毁了任何笔记系统 (包括 OneNote 和 Evernote)
+
+
+
+![img](%E4%B8%BA%E4%BB%80%E4%B9%88%20SuperMemo%20%E6%91%A7%E6%AF%81%E4%BA%86%E4%BB%BB%E4%BD%95%E7%AC%94%E8%AE%B0%E7%B3%BB%E7%BB%9F.assets/NotesVsSuperMemo.png)
+
+TL;DR:
+
+OneNote/Evernote: One-way interaction: you find and read information (your notes); it’s a personalized Google for indexing and organization
+
+SuperMemo: Two-way interactions: information finds you; you turn information into knowledge
+
+Note: This is an unjust comparison if what you want from a note-taking system is just knowledge management: storing notes. However, if what you want is more than that, and is also about helping you learn (which I believe should be), then SuperMemo trashes any note-taking system by orders of magnitude. Read on.
+
+太长不看版：
+
+OneNote/Evernote：单向交互：你可以查找和阅读信息(你的笔记)；这是一个用于索引和组织的个性化搜索引擎
+
+SuperMemo：双向交互：信息找到你；你把信息变成知识
+
+注意：如果你想从笔记系统中得到的仅仅是知识管理：存储笔记，那么这是一个不公平的比较。然而，如果你想要的不仅仅是这些，而且还想帮助你学习(我认为应该是这样)，那么 SuperMemo 就会数量级地摧毁任何笔记系统。继续读下去。
+
+## 1. Intended uses of any note-taking system (summarization, highlighting and re-reading)
+
+## 1. 任何笔记系统的预期用途(总结、高亮和重新阅读)
+
+Another similar discussion: [3 Fatal Reasons Why You SHOULDN’T Be Taking Notes When Studying](https://www.masterhowtolearn.com/2020-02-28-why-supermemo-trashes-any-note-taking-system-(including-onenote-and-evernote)/2019-08-29-3-fatal-reasons-why-you-shouldnt-be-taking-notes-when-studying)
+
+另一个类似的讨论：学习时不应该做笔记的 3 个重要原因
+
+Two typical use cases:
+
+两个典型的使用案例：
+
+You’re reading a textbook for your class. You write down a condensed version in OneNote/Evernote. After finishing your notes you re-read them “frequently” before exam (next week or month).
+
+你正在为你的课程阅读一本教科书。你可以在 OneNote/Evernote 中写下精简版本。做完笔记后，你要在考试前(下个星期或一个月)“频繁”重新阅读。
+
+Another case: you take notes for every book you read. You have a note collection for all the books you’ve read over the years. You review them frequently or “once in a while”.
+
+另一个案例：你为你读的每一本书做笔记。你有一个你这些年读过的所有书的笔记集合。你经常或“偶尔”回顾它们。
+
+*What are the problems?*
+
+*有什么问题吗？*
+
+## Two Critical Flaws in Any Note-taking System
+
+## 任何笔记系统中的两个关键缺陷
+
+The above two cases can be broken down into two components:
+
+1. Creating notes (by summarizing and highlighting)
+
+2. Reviewing notes (by re-reading)
+
+上述两种案例可以分为两个部分：
+
+1. 创建笔记(通过摘要和高亮)
+
+2. 复习笔记(重新阅读)
+
+### 1. Creating notes 创建笔记
+
+Refer to the following table. Summarization and highlighting are not effective.
+
+请参阅下表。摘要和高亮是低效的。
+
+### 2. Reviewing notes 复习笔记
+
+#### I. Re-reading is not effective 重新阅读是低效的
+
+[![UtilityAssessment](https://www.masterhowtolearn.com/static/50f60f43bbd89353f63423035d211043/8ff1e/UtilityAssessment.png)](https://www.masterhowtolearn.com/static/50f60f43bbd89353f63423035d211043/be1b7/UtilityAssessment.png)
+
+#### II. Unsustainable review schedule 不可持续的复习计划
+
+“Review frequently” is unsustainable in the long-term. When your note collection grows, it’s impossible to maintain a re-reading review schedule. Most people are not aware that you need to review them. Even if they do, in most cases it’s “maybe two or three times” (in a year maybe?) There’s no review-schedule system.
+
+从长远来看，“经常复习”是不可持续的。当你的笔记集合增加时，就不可能维持重新阅读的复习计划了。大多数人没有意识到需要复习它们。即使他们这样做了，在大多数情况下也“可能是两到三次”(一年内吗？)没有复习安排系统。
+
+For instance, you have 30 books in your “Book notes” collection, when are you going to re-read each book note? If you’re a dedicated learner, without a review-schedule system, you will have to manually keep track of all the review schedules. Perhaps you alert yourself (by some calendar notifications) to re-read your book notes. Since “reviewing sporadically” means more than one time, say 3 times: 30 books x 3 times = 90 calendar events. This is the equivalence of implementing a paper-and-pen [Leitner system](https://en.wikipedia.org/wiki/Leitner_system): how are you going to maintain 10,000 paper flashcards? It gets tedious and very quickly impossible when your note numbers grow. In most cases all of your notes just sit there collecting (digital) dust after its creation.
+
+例如，你的“图书笔记”集合中有 30 本书，你打算什么时候重新阅读每个读书笔记？如果你是一个专心致志的学习者，如果没有复习安排系统，你将不得不手动跟踪所有的复习安排。也许你会提醒自己(通过一些日历通知)重新阅读你的读书笔记。因为“不定期复习”意味着不止一次，比如 3 次：30 本书 x 3 次=90 次日历事件。这相当于实现一个纸笔版莱特纳系统：你如何维护 10,000 张纸质抽认卡？当你的笔记数量增加时，它会变得单调乏味，而且很快就变得不可能了。在大多数情况下，你所有的笔记在创建后都只是坐在那里收集(数字)灰尘。
+
+In [Why Obsidian Will Overtake Roam](https://www.youtube.com/watch?v=_x54XJrECvk) ([6:12]), He said, “Evernote shaped me into being an undisciplined hoarder, recklessly collecting other people’s thoughts.”
+
+在“为什么 Obsidian 将超越 Roam”([6:12])视频中，他说：“Evernote 把我塑造成一个无纪律的囤积者，肆无忌惮地收集别人的想法。”
+
+> The same holds true when it comes to managing bookmarks. We stumble upon an interesting web page and don’t want to lose the information, thus we keep it as a bookmark. The digital pile of bookmarks isn’t any different from a tangible pile of papers we consider worth knowing. Here, too, kept isn’t read, though. - [The Collector’s Fallacy](https://zettelkasten.de/posts/collectors-fallacy/)
+>
+> 同样的道理也适用于书签管理。我们偶然发现了一个有趣的网页，不想错过信息，所以我们把它作为书签。数字书签与我们认为值得了解的实体文件没有什么不同。不过，在这里，保存的内容也没有被阅读。——收藏家的谬论
+
+Here’s how [Ollie Lovell](https://www.ollielovell.com/ollielearns/spaced-repetition-incremental-reading-anki-dendro/) puts it:
+
+奥利·洛维尔是这样说的：
+
+> Originally I’d make notes in Word docs, but I’d never revisit them. Then I made them in google docs, but I’d never revisit them. Then I made them in Evernote, but I’d never revisit them. And most recently I’ve been making them in emails and emailing them to myself. This final method was a little better, but it still seemed a massive chore to revisit the copious notes I’d made at a conference, follow up all the links, and try to make Anki cards out of the good bits (often not deeply learning before memorising).
+>
+> 最初，我会在 Word 文档中做笔记，但我再也不会重温它们了。然后我在谷歌文档中制作了它们，但我再也不会再次访问它们了。然后我在 Evernote 制作了它们，但我再也不会去看它们了。最近，我一直在通过电子邮件制作它们，并通过电子邮件将它们发送给我自己。最后的方法稍微好一点，但要重温我在一次会议上做的丰富笔记，跟进所有环节，并试图从好的部分制作 Anki 卡片(通常在记忆之前没有深入学习)，似乎仍然是一件巨大的琐事。
+
+So creating notes by summarizing and highlighting is ineffective (#1). Reviewing notes (through re-reading) is also ineffective (#2.1) while at the same time unmaintainable and unsustainable (#2.2). So any note-taking system provides very little value and mostly is just wasted effort. In most cases, any note-taking system is just that: it’s nothing more than an organized note collection.
+
+因此，通过摘要和高亮来创建笔记是低效的(#1)。复习笔记(通过重新阅读)也是低效的(#2.1)，同时也是不可维护和不可持续的(#2.2)。因此，任何笔记系统提供的价值都很小，而且大部分都是徒劳无功。在大多数情况下，任何笔记系统都只是：它只不过是一个有组织的笔记集合。
+
+## Any Note-taking System vs. SuperMemo
+
+## 任何笔记系统 vs SuperMemo
+
+### 1. When to Review (Manual vs. Automatic) 何时复习(手动 vs 自动)
+
+### 2. Interaction (Passive vs. Active) 交互(被动 vs 主动)
+
+### 3. The goal of taking notes (An end in itself vs. Launchpad for flashcards) 做笔记的目标(本身就是目的 vs 抽认卡的起点)
+
+### 1. When to Review 何时复习
+
+#### Scheduling when to review: 
+
+#### 安排复习时间：
+
+**Any note-taking system: manually look for the information for review.** But this brings up the problem with meta-judgment:
+
+**任何笔记系统：手动查找要复习的信息。但这带来了元判断的问题：**
+
+> How do you know when you should review your notes?
+>
+> 你怎么知道什么时候应该复习笔记呢？
+
+You don’t know. We don’t know what we don’t know and what we need to know. [Gwern’s Spaced Repetition for Efficient Learning](https://www.gwern.net/Spaced-repetition) captures this paradox:
+
+你不知道。我们不知道什么是我们不知道的，什么是我们需要知道的。格温的《有效学习的间隔重复》一书抓住了这一悖论：
+
+> It doesn’t help that it’s pretty difficult to figure out when one should review - the optimal point is when you’re just about to forget about it, but that’s the kicker: if you’re just about to forget about it, how are you supposed to remember to review it? You only remember to review what you remember, and what you already remember isn’t what you need to review!
+>
+> 很难计算出什么时候应该复习，这并没有什么帮助——最好的时机是你即将忘记它，但这才是关键：如果你即将忘记它，你应该怎么记得复习它呢？你只记得复习你记得的，你已经记住的不是你需要复习的！
+
+**SuperMemo: Automatic scheduling for review (distributed practice): Algorithm to feed me the information based on [priority queue](https://supermemo.guru/wiki/Priority_queue) and feedback**
+
+**SuperMemo：复习的自动安排(分布练习)：基于优先级队列和反馈向我提供信息的算法**
+
+Distributed practice means a definitive review schedule: spacing your review schedule across weeks and months for a particular book note. Distributed practice only concerns with the *when*, not the *how*. In other words, even if you’re having none of the “flashcard-recall nonsense” and do zero active recall, SuperMemo will schedule EACH of your book note for re-reading weeks or months into the future. This avoids the “unsustainable manual review schedule” problem above.
+
+分布练习意味着一个明确的复习安排：将你的复习安排间隔为几周或几个月，用于特定的读书笔记。分布练习只关心何时，而不是如何。换句话说，即使你没有任何“抽认卡-回忆废话”，没有主动回忆，SuperMemo 也会安排你的每个读书笔记在未来几周或几个月后重新阅读。这避免了上面的“不可持续的手动复习安排”问题。
+
+Passive: Having a list of bookmarked websites or a seemingly-not-ending reading list.
+
+被动：有一个书签网站列表或一个似乎没完没了的阅读清单。
+
+Active: Importing them into SuperMemo so that they will show themselves in the future.
+
+主动：将它们导入到 SuperMemo 中，这样它们就可以在将来展示自己。
+
+**In any note-taking system you have to look for the information. In SuperMemo the information looks for you.**
+
+**在任何笔记系统中，你都必须寻找信息。在 SuperMemo 中，信息会寻找你。**
+
+[![ReadingAgainAfterAYear](https://www.masterhowtolearn.com/static/ec09838fa7061c45a0b1d2d7b96fc426/52699/ReadingAgainAfterAYear.png)](https://www.masterhowtolearn.com/static/ec09838fa7061c45a0b1d2d7b96fc426/52699/ReadingAgainAfterAYear.png)
+
+*Reading an article I imported into SuperMemo over a year ago.*
+
+*我读了一篇一年前我导入 SuperMemo 的文章。*
+
+### 2. Interaction (Passive vs. Active) 交互(被动 vs 主动)
+
+**Any note-taking system: Passive interaction**
+
+**任何笔记系统：被动交互**
+
+As I mentioned in the above “Two Critical Flaws in Any Note-taking System”: Summarizing is not passive but highlighting and re-reading are passive.
+
+正如我在上面的“任何笔记系统中的两个关键缺陷”中提到的：摘要不是被动的，而高亮和重新阅读是被动的。
+
+In a note-taking system, you don’t actively maintain your information. You don’t do active recall with it. Mostly you don’t rewrite, expand, elaborate or modify the content. All you have are pieces of digital notes laying there.
+
+在笔记系统中，你不会主动维护你的信息。你不会用它进行主动回忆。大多数情况下，你不会重写、扩展、详述或修改内容。你所有的东西都是躺在那里的数字笔记。
+
+**SuperMemo: Active interaction**
+
+**SuperMemo：主动交互**
+
+In SuperMemo, you have an outstanding queue. Think of it as a conveyor belt: you are fed with your information. They are coming to you. For each piece of information you have to actively maintain it:
+
+在 SuperMemo 中，你有一个待办的队列。 可以将其视为一条传送带：你会收到很多信息。 他们来找你。 对于每条信息，你都必须积极维护：
+
+For topics (articles) [Incremental Reading]:
+
+1. Ignore it by pressing Next (i.e., read another time)
+
+2. Delete it (no longer needed)
+
+3. Read it and then decide to:
+
+   - I. Extract important bits
+
+   - II. Set Reading Point (`Ctrl + F7`) if you’re not finished
+
+对于摘抄卡片(文章)[渐进阅读]:
+
+1. 通过点击 Next 忽略它(即，另一个时间再读)
+
+2. 删除它(不再需要)
+
+3. 阅读后决定：
+   - 摘抄重要信息
+   - 如果你还没读完，设置阅读点(`Ctrl + F7`)
+
+For Items (flashcards):
+
+1. Recall the answer and provide grading feedback:
+   - Failed recall: (automatic schedule to try again)
+   - Successful recall: SuperMemo schedules it weeks, months, or years into the future
+
+2. Rephrase, condense, remove unnecessary bits
+
+3. Delete it
+
+对于问答卡片(抽认卡)：
+
+1. 回忆答案，并提供反馈评分：
+   - 回忆失败：(自动安排重试)
+   - 回忆成功：SuperMemo 将其安排在未来数周、数月或数年之后
+
+2. 重新措辞、精简、删除不必要的内容
+
+3. 删除它
+
+Do you see how much more interaction you have with SuperMemo than a note-taking system? Maybe you can do all these manually in a note-taking system, but it’s not “part of the standard practice”, the critical flaw being the lack of a review-schedule system. The typical use case, as I mention above, is “summarize and re-read it once or twice”.
+
+你有没有看到你与 SuperMemo 的交互比笔记系统多了多少？也许你可以在笔记系统中手动做这些，但这不是“标准实践的一部分”，关键的缺陷是缺乏复习安排系统。正如我在上面提到的，典型的案例是“摘要并重新阅读一次或两次”。
+
+Any note-taking system: You do something TO it. SuperMemo: You play with it.
+
+任何笔记系统：你要对它做点什么。SuperMemo：你来玩吧。
+
+Side note: Anki is in the middle between a note-taking system and SuperMemo:
+
+附注：Anki 介于笔记系统和 SuperMemo 之间：
+
+Anki has the active recall component for items but no measure to deal with the source/notes (Incremental Reading). Without a scheduling algorithm for the source materials (Incremental Reading), you’ll most likely to batch import all of you notes into Anki and then make flashcards out of them at one time.
+
+Anki 有主动回忆卡片的组件，但没有处理源材料/笔记(渐进阅读)的措施。如果没有源材料的安排算法(渐进阅读)，你很可能会将所有笔记批量导入 Anki，然后一口气用它们制作抽认卡。
+
+### 3. The goal of taking notes (An end in itself vs. Launchpad for flashcards) 做笔记的目标(本身就是目的 vs 抽认卡的起点)
+
+**Any note-taking system: An end in itself: Taking notes is the end goal**
+
+**任何笔记系统：本身就是目的：记笔记就是最终目标**
+
+**SuperMemo: For further processing (turning into flashcards)**
+
+**SuperMemo：进一步处理(变成抽认卡)**
+
+The end goal of taking notes is not about having a polished set of summarized, highlighted and re-organized notes for passive review later. If you think taking notes means “having already gained the knowledge”, you’re in for a rude awakening. For example, Google is a massive information library, but having access to knowledge doesn’t mean gaining the knowledge. By the same token, you have access to a personalized materials… and it is just that. It doesn’t mean you’ve learned it.
+
+做笔记的最终目标不是要有一套精美的摘要、高亮和重新组织的笔记，以便以后被动地复习。如果你认为做笔记意味着“已经获得了知识”，那么你就会恍然大悟。例如，谷歌是一个庞大的信息图书馆，但访问知识并不意味着习得知识。出于同样的原因，你可以访问个性化材料……就是这样。这并不意味着你已经学会了。
+
+**If taking notes should not be the end goal, then what is?**
+
+**如果做笔记不应该是最终目标，那么什么才是最终目标呢？**
+
+It’s a launchpad for the next step: turning relevant information into testable materials (aka flashcards). You break down all the information into testable chunks so that you can test yourself. In this perspective, taking notes is about gathering relevant information for flashcards. The goal of taking notes should be making flashcards out of them. People think taking notes is an end in itself. No, it’s a means to the next step:
+
+这是下一步的起点：将相关信息转化为可测试的材料(又名抽认卡)。你将所有信息分解成可测试的块，以便你可以测试自己。从这个角度来看，做笔记就是收集抽认卡的相关信息。做笔记的目的应该是用它们制作抽认卡。人们认为做笔记本身就是目的。不，这是通向下一步的一种手段：
+
+> Learning sources (lecture PDFs, tutorial videos, reading materials) —> take notes —> flashcards
+>
+> Incremental Reading: Take notes from the source —> extracts into flashcards
+>
+> 学习资源(讲座 PDF、教程视频、阅读材料)—>做笔记—>抽认卡
+>
+> 渐进阅读：从源材料做笔记—>提取到抽认卡中
+
+### Taking Notes is About Selecting Relevant Information
+
+### 做笔记就是选择相关信息
+
+In terms of the SOI-model from [Learning as a Generative Activity: Eight Learning Strategies that Promote Understanding](https://www.amazon.com/Learning-Generative-Activity-Strategies-Understanding/dp/1107069912), taking notes is mostly about the first step, the S: Selecting relevant information from sensory memory (from the instruction (your learning material)).
+
+就《作为生成性活动的学习：促进理解的八个学习策略》中的 SOI 模型而言，做笔记主要是关于第一步，S：从感觉记忆中选择相关信息(从用法说明(你的学习材料)中)。
+
+[![SOI-model-of-generative-learning](https://www.masterhowtolearn.com/static/dc74989b7d0b6c661f4d5fff4b4a9f41/ad08f/SOI-model-of-generative-learning.png)](https://www.masterhowtolearn.com/static/dc74989b7d0b6c661f4d5fff4b4a9f41/ad08f/SOI-model-of-generative-learning.png)
+
+Taking notes is just a means to capture the information that you find important or relevant. For example, the notes you take for an important exam will be much different than the one you take from leisure reading. What you’re going to do with the captured information is another story.
+
+做笔记只是记录你认为重要或相关的信息的一种方式。例如，你在一次重要考试中所做的笔记将与你在休闲阅读中所做的笔记大不相同。你将如何处理捕获的信息则是另一回事。
+
+### Why flashcards?
+
+### 为什么是抽认卡？
+
+Take another look at the above table. Flashcards is the direct application of **practice testing** (high utility), **distributed practice** (high utility) and **interleaved practice** (moderate utility). The best way to implement these learning strategies is through flashcards; the best way to use flashcards… you guess it, is through SRS (SuperMemo/Anki).
+
+再看看上表。抽认卡是**练习测试**(高效用)、**分布练习**(高效用)和交叉练习(中效用)的直接应用。实施这些学习策略的最佳方式是通过抽认卡；使用抽认卡的最佳方式是……你猜对了，是通过 SRS (SuperMemo/Anki)。
+
+### Knowledge Management in a Note-taking System is Just Busywork
+
+### 在笔记系统中进行知识管理只是一项繁重的工作
+
+Before SuperMemo, I was using OneNote. I had folders and sessions and pages of notes, organized and tagged. Here’s a screenshot of my OneNote from 2016. It’s the notes I took for the book--- *Gasp!* [Make It Stick](https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013):
+
+在使用 SuperMemo 之前，我使用的是 OneNote。我有文件夹、章节和几页笔记，有组织，有标记。这是我 2016 年 OneNote 的截图。这是我为这本书做的笔记——《认知天性》：
+
+[![OneNoteFrom2016](https://www.masterhowtolearn.com/static/34817a911591b430c3eb475a9cae974b/8ff1e/OneNoteFrom2016.png)](https://www.masterhowtolearn.com/static/34817a911591b430c3eb475a9cae974b/f4992/OneNoteFrom2016.png)
+
+It’s true that OneNote (or Evernote) has a lot of functionalities that SuperMemo doesn’t have: synchronization, built-in OCR, modern and pretty UI design and interface, mobile version to “look up and review whenever and wherever you want”.
+
+诚然，OneNote(或 Evernote)有许多 SuperMemo 没有的功能：同步、内置 OCR、现代美观的 UI 设计和界面、移动版本可以“随时随地查找和查看”。
+
+You can have the cleanest, most detailed, meticulously classified, instantly searchable, well-tagged and organized notes in a note-taking system, synchronized across all 5 devices. However, without the vital ingredient that is spaced retrieval practice (three points discussed above), it is pretty useless. All those are just bells and whistles because **what matters is what you do with the information.**
+
+你可以在笔记系统中获得最干净、最详细、分类最细致、可即时搜索、标记良好、组织有序的笔记，并可在 5 台设备上同步。然而，如果没有关键要素，即间隔检索练习(上面讨论的三点)，它几乎毫无用处。所有这些都只是花里胡哨，因为**重要的是你如何处理这些信息**。
+
+Any note-taking system is just a collection of blank pieces of digital paper that you can write on. There isn’t any inherent feature that promotes learning: active recall, distributed practice (scheduled to review later), feedback system to interact with your information. Without a rich interaction with your knowledge system, you’re more or less just a human version of Google indexing various information that is not knowledge.
+
+任何笔记系统都只是一堆空白的电子纸，你可以在上面写字。没有任何内在的特性来促进学习：主动回忆，分布练习(安排稍后复习)，反馈系统与你的信息交互。如果没有与你的知识系统进行丰富的交互，你或多或少就只是为各种非知识的信息编制索引的谷歌的人类版本。
+
+> You’re trashing on any note-taking system that is not SuperMemo.
+>
+> 你在抨击任何不是 SuperMemo 的笔记系统。
+
+I think they all belong to the same category (learning tools) so this comparison is not out-of-bounds (at least in my mind). SuperMemo is much more than a note-taking system, but nonetheless it also is a note-taking system. Besides, if there is one best learning strategy (there is), then any strategy that is not that, is sub-optimal. Refer back to the above utility assessment table:
+
+我认为它们都属于同一个类别(学习工具)，所以这种比较并不是越界的(至少在我看来是这样)。SuperMemo 不仅仅是一个做笔记的系统，尽管如此，它也是一个做笔记的系统。此外，如果有一个最好的学习策略(这里有)，那么任何不是这样的策略都是次优的。请回过头来参考上面的实用方法评估表：
+
+SuperMemo:
+
+Practice testing 练习测试: ✔
+
+Distributed practice 分布练习: ✔
+
+Interleaved practice 交叉练习: ✔
+
+Only two techniques are rated high and SuperMemo (or Anki for that matter) has it.
+
+只有两种技术被评为高分，SuperMemo (或 Anki 就这一点而言)拥有这一点。
+
+### Closing Remarks 结束语
+
+At this point, I realized this discussion is a manifestation of our different beliefs about how to learn, in which it’s reflected in the tools we use:
+
+至此，我意识到这次讨论体现了我们对学习的不同信念，体现在我们使用的工具中：
+
+Note-taking system: summarize and highlight from the source material; re-read “sporadically” or “frequently”
+
+笔记系统：从原始材料中摘要和高亮；“偶尔”或“经常”重新阅读。
+
+Spaced repetition software (SuperMemo/Anki): retrieval practice (active recall), distributed practice, interleaved practice
+
+间隔复习软件(SuperMemo/Anki)：检索练习(主动回忆)、分布练习、交叉练习
+
+I’m not trashing on any particular note-taking system (OneNote or Evernote). To put it bluntly, I’m trashing on all note-taking systems. It’s just that the “standard practice” of note-taking is not useful or effective. By extension, the system that supports this goal is also not very useful and effective. To put it in another way, SuperMemo has completely revolutionized the way I think about learning, information and knowledge to the extent that now I think any note-taking system (OneNote or Evernote) is mostly useless.
+
+我不是在抨击任何特定的笔记系统(OneNote 或 Evernote)。直截了当地说，我在抨击所有的笔记系统。只是做笔记的“标准做法”没有用，也没有效果。推而广之，支持这一目标的系统也不是很有用和有效。换句话说，SuperMemo 彻底改变了我思考学习、信息和知识的方式，以至于现在我认为任何笔记系统(OneNote 或 Evernote)都几乎毫无用处。

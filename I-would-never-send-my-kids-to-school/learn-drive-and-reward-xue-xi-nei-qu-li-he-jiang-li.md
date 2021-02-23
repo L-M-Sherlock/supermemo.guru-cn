@@ -186,7 +186,9 @@ The anterior hippocampus that responds to signal entropy is famous for the disco
 
 Most of us have no idea how Halle Berry smells and her smell might not be unique enough to activate Halle Berry neuron in the hippocampus, however, even the smell signal can get there fast via just a few synapses in the olfactory bulb, olfactory tubercle, piniform cortex, and the entorhinal cortex \(see picture\). However, if one could hear the sound of Halle's voice, it might meet the sound signal in the olfactory tubercle, contribute to recognition, and result in the subsequent activation of the Halle neuron in the hippocampus or further down in the neocortex.
 
-我们大多数人都不知道 Halle Berry 的气味如何，她的气味可能不足以激活海马体中的 Halle Berry 神经元，然而，即使是气味信号也可以通过嗅球、嗅结节、松果体皮层和内嗅皮层中的几个突触快速到达那里（见下图）。然而，如果一个人能听到 Halle 的声音，声音信号可能会在嗅结节中出现，加强识别，并导致海马或更下方的新皮层中 Halle 神经元的激活。![Olfactory system anatomy](../.gitbook/assets/692px-olfactory_system_anatomy.jpg)
+我们大多数人都不知道 Halle Berry 的气味如何，她的气味可能不足以激活海马体中的 Halle Berry 神经元，然而，即使是气味信号也可以通过嗅球、嗅结节、松果体皮层和内嗅皮层中的几个突触快速到达那里（见下图）。然而，如果一个人能听到 Halle 的声音，声音信号可能会在嗅结节中出现，加强识别，并导致海马或更下方的新皮层中 Halle 神经元的激活。
+
+![Olfactory system anatomy](../.gitbook/assets/692px-olfactory_system_anatomy.jpg)
 
 > **Figure:** Olfactory system anatomy. The smell signal can get to the hippocampus fast via just a few synapses in the olfactory bulb, olfactory tubercle, piniform cortex, and the entorhinal cortex. \(source: Wikipedia\)
 >
