@@ -18,7 +18,14 @@ supermemo.guru 文章中文翻译
 
 [History of spaced repetition 间隔重复的历史](https://github.com/L-M-Sherlock/supermemo.guru-cn/tree/master/History%20of%20spaced%20repetition)(翻译中)
 
+[Essays 未归类文章](https://github.com/L-M-Sherlock/supermemo.guru-cn/tree/master/Essays)(翻译中)
+
 ## GitHub 项目地址
 
 [L-M-Sherlock](https://github.com/L-M-Sherlock)/[supermemo.guru-cn](https://github.com/L-M-Sherlock/supermemo.guru-cn)
 
+## 阅读地址
+
+电子书：[supermemo.guru 翻译计划 · 看云 (kancloud.cn)](https://www.kancloud.cn/ankigaokao/supermemo-guru-cn)
+
+知乎专栏：[SuperMemo Guru翻译计划 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/supermemo-guru-cn)
