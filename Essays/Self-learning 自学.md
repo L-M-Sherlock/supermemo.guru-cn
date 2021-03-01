@@ -2,17 +2,17 @@
 
 **Self-learning** is learning on one's own. Self-learning requires no teacher. Best forms of self-learning are [self-directed](https://supermemo.guru/wiki/Self-directed_learning) (i.e. based on one's own choice of material and direction), and self-paced (i.e. based on one's own optimum speed of learning). Self-learning makes it possible to naturally employ the [learn drive](https://supermemo.guru/wiki/Learn_drive) in full compliance with the [fundamental law of learning](https://supermemo.guru/wiki/Fundamental_law_of_learning). [Homework](https://supermemo.guru/wiki/Homework) is an example of self-learning that is usually not self-directed, and thus inefficient.
 
-自学就是一个人自己学。自学不需要老师。自学的最好形式是自我导向(即基于自己选择的材料和方向)和自定进度(即基于自己的最佳学习速度)。自学使人们能够在完全符合学习基本规律的情况下自然地运用学习动力。作业是自学的一个例子，通常不是自我导向的，因此效率低下。
+自学就是一个人自己学。自学不需要老师。自学的最好形式是自我导向(即基于自己选择的材料和方向)和自定进度(即基于自己的最佳学习速度)。自学使人们能够在完全符合学习基本规律的情况下自然地运用学习内驱力。家庭作业是非自我导向的自学例子，因此效率低下。
 
 [Incremental reading](https://supermemo.guru/wiki/Incremental_reading) has been designed as a conglomerate of all best self-learning techniques for declarative knowledge available in electronic form (and not only). The concept of [unschooling](https://supermemo.guru/wiki/Unschooling) is based on the power of self-learning. [SuperMemo](https://supermemo.guru/wiki/SuperMemo) is one of software pioneers in the area of optimization of self-learning. Self-learning is also called *autodidacticism*, *self-instruction* or *self-teaching*.
 
-渐进阅读被设计为电子形式的陈述性知识的所有最好的自学技术的集合体(不仅如此)。非学校教育的概念是基于自学的力量。SuperMemo 是自学优化领域的软件先驱之一。
+渐进阅读被设计为电子格式的陈述性知识的所有最好的自学技术的集合体(不仅如此)。非学校教育的概念是基于自学的力量。SuperMemo 是自学优化领域的软件先驱之一。
 
 # Self-paced learning 自定进度学习
 
 **Self-paced learning** is learning in which the student decides how much material, and in what span of time, she is ready to master. **Self-paced learning** dramatically improves learning efficiency by adapting the speed of learning to cognitive needs and capacities of an individual.
 
-自定进度学习是学生决定在多长时间内准备好掌握多少材料的学习。自定进度学习通过调整学习速度来适应个人的认知需求和能力，从而极大地提高了学习效率。
+**自定进度学习**是由学生决定在多长时间内准备掌握多少材料的学习。自定进度学习通过调整学习速度来适应个人的认知需求和能力，从而极大地提高了学习效率。
 
 More reading:
 
@@ -22,19 +22,19 @@ More reading:
 
 更多阅读内容：
 
-- 过量材料如何影响健康和自尊：学校教育的无用
+- 过多的材料如何影响健康和自尊：学校教育的无用
 - 过多的材料如何产生对学习的憎恨：学校如何毁掉生活
-- 过量的物质如何导致更快的遗忘：关于老鼠比受过教育的人的优越性
+- 过多的材料如何导致更快的遗忘：关于老鼠比受过教育的人的优越性
 
 # Self-directed learning 自我导向学习
 
 **Self-directed learning** is [self-learning](https://supermemo.guru/wiki/Self-learning) in which the student choses his materials and her directions (i.e. [goals](https://supermemo.guru/wiki/Setting_goals_can_change_your_life)). Self-directed learning is the basis of the success and popularity of [unschooling](https://supermemo.guru/wiki/Unschooling). The efficiency of self-directed learning is based on the fact that, by definition, it is strongly influenced by the [learn drive](https://supermemo.guru/wiki/Learn_drive), and nearly always satisfies the [fundamental law of learning](https://supermemo.guru/wiki/Fundamental_law_of_learning). This makes it possible to build high quality knowledge via [emergence](https://supermemo.guru/wiki/Emergence).
 
-自我导向学习是学生选择材料和方向(即目标)的自学。自我导向学习是非学校教育成功和普及的基础。自我导向学习的效率是基于这样一个事实，从定义上讲，它受到学习动力的强烈影响，并且几乎总是满足学习的基本规律。这使得通过涌现来构建高质量的知识成为可能。
+**自我导向学习**是学生选择材料和方向(即目标)的自学。自我导向学习是非学校教育成功和普及的基础。自我导向学习的效率是基于这样一个事实，从定义上讲，它受到学习内驱力的强烈影响，并且几乎总是满足学习的基本规律。这使得通过涌现来构建高质量的知识成为可能。
 
 In a vast majority of cases, in [homeschooling](https://supermemo.guru/wiki/Homeschooling), parents quickly discover that self-directed learning is by far more efficient than learning based on a specific [curriculum](https://supermemo.guru/wiki/Curriculum), however, in many countries, it is not legal to step away from the compulsory [curriculum](https://supermemo.guru/wiki/Curriculum). Once parents free the kids of the rigid [curriculum](https://supermemo.guru/wiki/Curriculum), [homeschooling](https://supermemo.guru/wiki/Homeschooling) becomes [unschooling](https://supermemo.guru/wiki/Unschooling), and the [pleasure of learning](https://supermemo.guru/wiki/Pleasure_of_learning) helps the kids thrive. Similar terms used for self-directed learning: *self-directed education (SDE)*, *self-regulated learning (SRL)*, and *autodidacticism*. I use the all-encompassing term *[free learning](https://supermemo.guru/wiki/Free_learning)* to mean roughly the same thing.
 
-在绝大多数情况下，在在家上学时，家长很快就会发现，到目前为止，自我导向学习比基于特定课程的学习效率要高得多，然而，在许多国家，远离必修课程是不合法的。一旦父母将孩子们从僵化的课程中解放出来，在家上学就变成了非学校教育，学习的乐趣帮助孩子们茁壮成长。用于自我导向学习的类似术语：自我指导教育(SDE)、自我调节学习(SRL)和自学。我用包罗万象的术语“免费学习”来表达大致相同的意思。
+在绝大多数情况下，在家上学中，家长很快就会发现，到目前为止，自我导向学习比基于特定课程的学习效率要高得多，然而，在许多国家，跳过必修课程是不合法的。一旦父母将孩子们从僵化的课程中解放出来，在家上学就变成了非学校教育，学习的乐趣帮助孩子们茁壮成长。用于自我导向学习的类似术语：自我指导教育(SDE)、自我调节学习(SRL)和自学。我用包罗万象的术语“自由学习”来表达大致相同的意思。
 
 See also: [Why the present system of schooling will collapse soon](https://supermemo.guru/wiki/Gray:_Coercive_school_system_will_collapse_soon)
 
