@@ -38,10 +38,11 @@
     * [10.1995 SuperMemo 多媒体](History-of-spaced-repetition/Hypermedia-SuperMemo.md)
     * [11.1997 采用神经网络](History-of-spaced-repetition/Employing-neural-networks.md)
     * [12.1999 选择名称——间隔重复](History-of-spaced-repetition/Choosing-the-name-spaced-repetition.md)
-    * [13.2005 稳步增加功能](History-of-spaced-repetition/Stability-increase-function.md)
+    * [13.2005 稳定性增长函数](History-of-spaced-repetition/Stability-increase-function.md)
     * [14.2014 SM-17 算法](History-of-spaced-repetition/Algorithm-SM-seventeen.md)
     * [15.间隔重复的指数发展](History-of-spaced-repetition/Exponential-adoption-of-spaced-repetition.md)
     * [16.记忆研究的摘要](History-of-spaced-repetition/Summary-of-memory-research.md)
     * [17.剖析成功与失败](History-of-spaced-repetition/The-anatomy-of-failure-and-success.md)
     * [18.尾声](History-of-spaced-repetition/Epilog.md)
 * [CONTRIBUTING](contributing.md)
+
