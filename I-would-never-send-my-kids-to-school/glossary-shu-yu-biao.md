@@ -55,7 +55,7 @@ This terminology is used in [my](https://supermemo.guru/wiki/Piotr_Wozniak) arti
 * [Homeostatic sleep propensity](https://supermemo.guru/wiki/Homeostatic_sleep_propensity) - fatigue caused by _tiredness of waking_
 * [稳态睡眠倾向](https://supermemo.guru/wiki/Homeostatic_sleep_propensity)——因_醒着的时候的疲劳_而引起的睡意
 * [Homeschooling](https://supermemo.guru/wiki/Homeschooling) - home-based education
-* [家庭教育](https://supermemo.guru/wiki/Homeschooling)——以家庭为基础的教育
+* [在家上学](https://supermemo.guru/wiki/Homeschooling)——以家庭为基础的教育
 * [Idiocracy problem](https://supermemo.guru/wiki/Idiocracy_problem) - problem of smart people having few or late children
 * [蠢蛋进化论问题](https://supermemo.guru/wiki/Idiocracy_problem)——聪明的人少生或晚生孩子的问题
 * [Increading](https://supermemo.guru/wiki/Increading) - reading [incrementally](https://supermemo.guru/wiki/Incremental_reading)
@@ -75,7 +75,7 @@ This terminology is used in [my](https://supermemo.guru/wiki/Piotr_Wozniak) arti
 * [Learntropy](https://supermemo.guru/wiki/Learntropy) - measure of attractiveness of a lecture, book, etc.
 * [学习熵](https://supermemo.guru/wiki/Learntropy)——演讲、书籍等学习材料的吸引力的度量
 * [Knowledge darwinism](https://supermemo.guru/wiki/Knowledge_darwinism) - competition of memories for the best place in the [jigsaw puzzle](https://supermemo.guru/wiki/Jigsaw_puzzle) of memory
-* [知识达尔文主义](https://supermemo.guru/wiki/Knowledge_darwinism)——记忆在竞争记忆[拼图](https://supermemo.guru/wiki/Jigsaw_puzzle)中的最佳位置
+* [知识进化论](https://supermemo.guru/wiki/Knowledge_darwinism)——记忆在竞争记忆[拼图](https://supermemo.guru/wiki/Jigsaw_puzzle)中的最佳位置
 * [Knowledge redundancy](https://supermemo.guru/wiki/Knowledge_redundancy) - memorizing same memories in different contexts to boost [recall](https://supermemo.guru/wiki/Recall)
 * [知识冗余](https://supermemo.guru/wiki/Knowledge_redundancy)——在不同的情境中记忆相同的记忆，以促进[回忆](https://supermemo.guru/wiki/Recall)
 * [Knowledge valuation network](https://supermemo.guru/wiki/Knowledge_valuation_network) - any neural subsystem capable of estimating the value of knowledge
@@ -125,9 +125,9 @@ This terminology is used in [my](https://supermemo.guru/wiki/Piotr_Wozniak) arti
 * [Stability](https://supermemo.guru/wiki/Stability) - durability of a given memory
 * [稳定性](https://supermemo.guru/wiki/Stability)——特定记忆的持久性
 * [Stabilization curve](https://supermemo.guru/wiki/Stabilization_curve) - the most important curve in the optimization of learning: [stabilization](https://supermemo.guru/wiki/Stabilization) as a function of [retrievability](https://supermemo.guru/wiki/Retrievability)
-* [稳定曲线](https://supermemo.guru/wiki/Stabilization_curve)——优化学习中的最重要的曲线：[稳定性](https://supermemo.guru/wiki/Stability)是[可提取性](https://supermemo.guru/wiki/Retrievability)的函数
+* [稳定化曲线](https://supermemo.guru/wiki/Stabilization_curve)——优化学习中的最重要的曲线：[稳定性](https://supermemo.guru/wiki/Stability)是[可提取性](https://supermemo.guru/wiki/Retrievability)的函数
 * [Stabilization decay](https://supermemo.guru/wiki/Stabilization_decay) - gradual decrease in the potential for [stability increase](https://supermemo.guru/wiki/Stability_increase) in memories with high [stability](https://supermemo.guru/wiki/Stability)
-* [稳定衰退](https://supermemo.guru/wiki/Stabilization_decay)——在[稳定性](https://supermemo.guru/wiki/Stability)较高的记忆中，其[稳定性增加](https://supermemo.guru/wiki/Stability_increase)的可能性逐渐降低
+* [稳定化衰减](https://supermemo.guru/wiki/Stabilization_decay)——在[稳定性](https://supermemo.guru/wiki/Stability)较高的记忆中，其[稳定性增加](https://supermemo.guru/wiki/Stability_increase)的可能性逐渐降低
 * [Toxic memory](https://supermemo.guru/wiki/Toxic_memory) - persistent memory that leads to anxiety
 * [毒性记忆](https://supermemo.guru/wiki/Toxic_memory)——导致焦虑的顽固记忆
 * [Two-component model of long-term memory](https://supermemo.guru/wiki/Two-component_model_of_long-term_memory) - model of memory based on [retrievability](https://supermemo.guru/wiki/Retrievability) and [stability](https://supermemo.guru/wiki/Stability) of memories
