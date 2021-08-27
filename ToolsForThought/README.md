@@ -2,7 +2,11 @@
 
 chunk - 组块
 
-cloze/cloze deletion - 填空题/挖空
+cloze/cloze deletion - 名词：填空卡；动词：挖空
+
+elaborative encoding - 精细编码
+
+evergreen notes - 常青笔记
 
 mnemonic essay - 助记文章
 
