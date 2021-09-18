@@ -1,3 +1,4 @@
+* [CONTRIBUTING](contributing.md)
 * [我永远不会送我的孩子去学校](I-would-never-send-my-kids-to-school/README.md)
     * [01.前言](I-would-never-send-my-kids-to-school/introduction-qian-yan.md)
     * [02.箴言](I-would-never-send-my-kids-to-school/motto-zhen-yan.md)
@@ -43,5 +44,4 @@
     * [16.记忆研究的摘要](History-of-spaced-repetition/Summary-of-memory-research.md)
     * [17.剖析成功与失败](History-of-spaced-repetition/The-anatomy-of-failure-and-success.md)
     * [18.尾声](History-of-spaced-repetition/Epilog.md)
-* [CONTRIBUTING](contributing.md)
 
