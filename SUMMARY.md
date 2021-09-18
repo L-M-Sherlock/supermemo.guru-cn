@@ -1,4 +1,3 @@
-* [Introduction](README.md)
 * [我永远不会送我的孩子去学校](I-would-never-send-my-kids-to-school/README.md)
     * [01.前言](I-would-never-send-my-kids-to-school/introduction-qian-yan.md)
     * [02.箴言](I-would-never-send-my-kids-to-school/motto-zhen-yan.md)
