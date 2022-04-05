@@ -8,7 +8,7 @@
 
 [![Learned helplessness](https://supermemo.guru/images/thumb/c/c6/Learned_helplessness-_dogs_and_school_kids_accept_their_fate.jpg/200px-Learned_helplessness-_dogs_and_school_kids_accept_their_fate.jpg)](https://supermemo.guru/wiki/File:Learned_helplessness-_dogs_and_school_kids_accept_their_fate.jpg)
 
-> 图：即使儿童[讨厌学校](https://supermemo.guru/wiki/Why_kids_hate_school)，他们也会通过[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)接受自己的命运。这破坏了他们[对学习的天生热爱](https://supermemo.guru/wiki/Pleasure_of_learning)，抑制了自然的创造力，剥夺了独立性，并可能导致日后的精神障碍。相比之下，一个罕见的例外，一匹[可以自由玩耍的马](https://youtu.be/8FVqqQvYq88)
+> 图：即使儿童[讨厌学校](https://supermemo.guru/wiki/Why_kids_hate_school)，他们也会通过[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)接受自己的命运。这破坏了他们[对学习的天生热爱](https://supermemo.guru/wiki/Pleasure_of_learning)，抑制了天生的创造力，剥夺了独立性，并可能导致日后的精神障碍。相比之下，一个罕见的例外，一匹[可以自由玩耍的马](https://youtu.be/8FVqqQvYq88)
 
 ## 狱中小狗
 
