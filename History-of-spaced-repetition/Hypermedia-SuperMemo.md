@@ -1,5 +1,7 @@
 # 1995 年：超媒体 SuperMemo
 
+[TOC=2,5]
+
 ## SM-8 算法在山间小屋中诞生
 
 1995 年，[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 重写。这是个好时机，可以利用 [SM-6 算法](https://supermemo.guru/wiki/Algorithm_SM-6)采用后四年以来的数据，实现新的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)算法。

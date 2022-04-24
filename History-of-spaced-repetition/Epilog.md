@@ -1,7 +1,3 @@
-# Epilog
+# 后记
 
-# 尾声
-
-[Spaced repetition](https://supermemo.guru/wiki/Spaced_repetition) was [born on July 31, 1985](https://supermemo.guru/wiki/The_birthday_of_spaced_repetition:_July_31,_1985). Today it is used by up to [several hundred million students](https://supermemo.guru/wiki/Exponential_growth_of_the_popularity_of_Algorithm_SM-2). Both facts were not too clear to me when I started writing this article. The history of spaced repetition as painted by this text may still be swept under the carpet of human history. However, I leave this article for future web archeologists to paint the truest picture. Perhaps in a not so distant future, intelligent machines will trace a tiny fraction of their [efficient operation](https://supermemo.guru/wiki/Artificial_intelligence_needs_to_sleep) to those first shaky steps in a little city of Poznan in Poland at the end of the second millennium?
-
-[间隔重复][https://supermemo.guru/wiki/Spaced_repetition](https://supermemo.guru/wiki/The_birthday_of_spaced_repetition:_July_31，_1985)。今天，它被多达[几亿学生]使用(https://supermemo.guru/wiki/exponential_growth_of_the_普及_of_algorithm_sm -2)。当我开始写这篇文章时，这两个事实对我来说都不是很清楚。本文所描绘的空间重复的历史，仍然可能被人类历史所掩盖。然而，我把这篇文章留给未来的web考古学家来描绘最真实的画面。也许在不远的将来，智能机器将会把它们的一小部分[高效操作](https://supermemo.guru/wiki/Artificial_intelligence_needs_to_sleep)追溯到第二个千禧年结束时，波兰波兹南一个小城市的第一次摇晃。
+[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)[诞生于 1985 年 7 月 31 日](https://supermemo.guru/wiki/The_birthday_of_spaced_repetition:_July_31,_1985)。当下高达[数亿](https://supermemo.guru/wiki/Exponential_growth_of_the_popularity_of_Algorithm_SM-2)学生在使用间隔重复。我开始动笔时，这两个事实不为我所知。虽有此篇文字描绘间隔重复的来龙去脉，但这段往事可能仍然会在人类历史长河中默默无闻。我谨为未来的网络考古学家撰写此文，以便其描绘真实图景。不过展望不远的未来，智能机器[运转如飞](https://supermemo.guru/wiki/Artificial_intelligence_needs_to_sleep) ，而审其现状，或可寻得微毫一脉，溯源第二千年之末，波兰小城波兹南中，一人跌撞踉跄开新河？

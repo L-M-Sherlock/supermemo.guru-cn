@@ -1,5 +1,7 @@
 # 1990：记忆的通用公式
 
+[TOC=2,5]
+
 ## 最优复习与间歇复习
 
 到了 1990 年，我很是笃定我手握着重大发现。我破解了[遗忘](https://supermemo.guru/wiki/Forgetting)难题。我知道了记忆简单内容的复习[最佳时机](https://supermemo.guru/wiki/Spaced_repetition)。一经在我[硕士论文](https://supermemo.guru/wiki/Optimization_of_learning)中描述它的许可，我的探索欲也水涨船高。我希望我可以找到一个长期记忆的通用公式，能够让我跟踪记忆在各种形式的检索和接触中的表现形式。

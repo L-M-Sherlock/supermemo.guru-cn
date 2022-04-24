@@ -1,5 +1,7 @@
 # 1994：遗忘的指数性质
 
+[TOC=2,5]
+
 ## 遗忘曲线：幂或指数形式
 
 [遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)的形状对于理解记忆至关重要。曲线背后的数学甚至可能影响到对睡眠作用的理解（见下文）。当艾宾浩斯第一次确定遗忘率的时候，他得到了一组相当不错的数据，能较好拟合幂函数。然而，现在我们知道遗忘是呈指数形式的。想了解这种差异可以阅读[这篇文章](https://supermemo.guru/wiki/Error_of_Ebbinghaus_forgetting_curve)。

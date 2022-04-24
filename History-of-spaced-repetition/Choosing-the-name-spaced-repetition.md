@@ -1,5 +1,7 @@
 # 1999：命名为「间隔重复」
 
+[TOC=2,5]
+
 ## 追求又好又独特的名字
 
 「[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)」这一术语非常古老，在广告业和行为研究中已经使用了几十年。然而，它的现代意义是在 1999 年诞生的，[我们](https://supermemo.guru/wiki/SuperMemo_World)当时用它来替代 **[SuperMemo 方法](https://supermemo.guru/wiki/SuperMemo)**。

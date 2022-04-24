@@ -1,5 +1,7 @@
 # 1991：启用遗忘曲线
 
+[TOC=2,5]
+
 ## SuperMemo World 在苦痛中诞生（1991）
 
 1991 年是 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 诞生以来最重要的一年。这一年有重大决定，有压力，有大惊小怪、有新发现，更少不了勤勉耕耘。新年伊始，SuperMemo 迎来三个最大的信徒：[Biedalak](https://supermemo.guru/wiki/Krzysztof_Biedalak)，[Murakowski](https://supermemo.guru/wiki/Janusz_Murakowski) 和[我自己](https://supermemo.guru/wiki/Piotr_Wozniak)。我们都立足于人生旅途上的同一位置：从大学中无忧无虑的岁月走出来，迎面是独立成年生活的不确定性。我们自然而然都梦想着在美国搞高深的科学。Biedalak 梦想研究人工智能，Murakowski 渴望参透量子物理，而我想破解[分子层面记忆](https://supermemo.guru/wiki/Neurostatistical_Model_of_Memory)的秘密。现在回想起来，只要有可喜的成绩单，优秀的标准化考试成绩，以及背景厚实的推荐信，来自东欧国家的研究生在美国是相当受欢迎的。然而如果这些研究生要求全额资助，事情就会变得更加复杂。我身无分文。此外，美国人只把孜孜以求的东方人当成尽职的劳工，对他们自己项目的热情和满腔愿景可能不那么受欢迎。我将永远不会知道。三位信徒对 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 都有不同的愿景。
