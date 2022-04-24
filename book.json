@@ -4,5 +4,19 @@
         "cloud-image",
         "image-zoom",
         "comment"
-    ]
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "auto_open": true,
+            "show_nav": true,
+            "logo": {},
+            "navs": [
+                {
+                    "title": "参与翻译",
+                    "url": "https://paratranz.cn/projects/3131",
+                    "target": true
+                }
+            ]
+        }
+    }
 }
