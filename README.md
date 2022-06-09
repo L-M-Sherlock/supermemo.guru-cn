@@ -23,8 +23,8 @@ supermemo.guru 文章翻译（目前也纳入了其他内容）
 
 ## 目前翻译过/翻译中的文集
 
-- [I would never send my kids to school 我永远不会送我的孩子去学校](https://github.com/L-M-Sherlock/supermemo.guru-cn/tree/master/I%20would%20never%20send%20my%20kids%20to%20school)(已完成)
-- [History of spaced repetition 间隔重复的历史](https://github.com/L-M-Sherlock/supermemo.guru-cn/tree/master/History%20of%20spaced%20repetition)(已完成)
+- [I would never send my kids to school 我永远不会送我的孩子去学校](https://github.com/L-M-Sherlock/supermemo.guru-cn/tree/master/I-would-never-send-my-kids-to-school)(已完成)
+- [History of spaced repetition 间隔重复的历史](https://github.com/L-M-Sherlock/supermemo.guru-cn/tree/master/History-of-spaced-repetition)(已完成)
 - [Good sleep, good learning, good life 好睡眠，好学习，好生活](https://github.com/L-M-Sherlock/supermemo.guru-cn/tree/master/Good%20sleep%2C%20good%20learning%2C%20good%20life)(志愿者负责中)
   - 已经有同志在翻译了：https://github.com/Colerar/Chinese-Translation-Good-sleep-good-learning-good-life 
 - [Essays 未归类文章](https://github.com/L-M-Sherlock/supermemo.guru-cn/tree/master/Essays)(搁置中)
