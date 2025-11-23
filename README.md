@@ -1,3 +1,7 @@
+# Update
+
+汉化项目已迁移至 [L-M-Sherlock/thoughts-memo-translation: Thoughts Memo 汉化组翻译合集](https://github.com/L-M-Sherlock/thoughts-memo-translation)
+
 # Introduction
 
 ## 须知
